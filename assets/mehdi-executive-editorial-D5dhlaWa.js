@@ -1,0 +1,1 @@
+var e=`/assets/mehdi-executive-editorial-CV5JzyVA.jpg`;export{e as t};
