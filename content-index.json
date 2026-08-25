@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-25T12:55:32.708Z",
+  "assets": [
+    {
+      "id": "en:people-questions-are-rarely-only-people-questions",
+      "language": "en",
+      "slug": "people-questions-are-rarely-only-people-questions",
+      "path": "/thinking/people-questions-are-rarely-only-people-questions",
+      "title": "People questions are rarely only people questions",
+      "description": "Before treating a leadership or performance issue as an individual problem, look at the role, system, relationships and business context around it.",
+      "category": "HR & Organization",
+      "format": "Practice essay",
+      "evidence": "Practice synthesis",
+      "sourceNote": "Distilled from more than 15 years of cross-sector HR leadership and 700+ hours of coaching practice. No client story or identifiable client material is used.",
+      "status": "published"
+    },
+    {
+      "id": "en:individual-coaching-is-not-organizational-coaching",
+      "language": "en",
+      "slug": "individual-coaching-is-not-organizational-coaching",
+      "path": "/thinking/individual-coaching-is-not-organizational-coaching",
+      "title": "Individual coaching is not organizational coaching",
+      "description": "When an organization sponsors coaching, the work needs two things at once: protected confidentiality and explicit connection to organizational purpose.",
+      "category": "Coaching in Organizations",
+      "format": "Practice distinction",
+      "evidence": "Practice distinction",
+      "sourceNote": "A working distinction developed through organizational and executive coaching practice. It describes Mehdi's approach and is not presented as a universal model.",
+      "status": "published"
+    },
+    {
+      "id": "en:better-context-produces-more-useful-ai",
+      "language": "en",
+      "slug": "better-context-produces-more-useful-ai",
+      "path": "/thinking/better-context-produces-more-useful-ai",
+      "title": "Better context produces more useful AI",
+      "description": "AI becomes more valuable when it extends grounded experience and traceable knowledge instead of manufacturing expertise from a thin prompt.",
+      "category": "Human & AI",
+      "format": "Analytical note",
+      "evidence": "Source-grounded reflection",
+      "sourceNote": "Developed from Mehdi's reflection on Colin Scotland's Coaching.com presentation about using AI to amplify a coaching business, combined with evidence-first knowledge principles.",
+      "status": "published"
+    },
+    {
+      "id": "fa:people-questions-are-rarely-only-people-questions",
+      "language": "fa",
+      "slug": "people-questions-are-rarely-only-people-questions",
+      "path": "/fa/thinking/people-questions-are-rarely-only-people-questions",
+      "title": "مسائل انسانی، به‌ندرت فقط انسانی‌اند",
+      "description": "پیش از آنکه یک چالش رهبری یا عملکرد را مسئله‌ای فردی بدانیم، باید نقش، سیستم، روابط و واقعیت کسب‌وکار پیرامون آن را ببینیم.",
+      "category": "منابع انسانی و سازمان",
+      "format": "مقاله کاربردی",
+      "evidence": "ترکیب تجربه حرفه‌ای",
+      "sourceNote": "این نوشته از بیش از پانزده سال تجربه رهبری منابع انسانی در صنایع مختلف و بیش از ۷۰۰ ساعت کوچینگ حرفه‌ای استخراج شده است. هیچ روایت یا اطلاعات قابل‌شناسایی از مراجعان در آن استفاده نشده است.",
+      "status": "published"
+    },
+    {
+      "id": "fa:individual-coaching-is-not-organizational-coaching",
+      "language": "fa",
+      "slug": "individual-coaching-is-not-organizational-coaching",
+      "path": "/fa/thinking/individual-coaching-is-not-organizational-coaching",
+      "title": "کوچینگ فردی، همان کوچینگ سازمانی نیست",
+      "description": "وقتی سازمان حامی کوچینگ است، کار باید هم‌زمان دو ویژگی داشته باشد: محرمانگی محافظت‌شده و پیوند روشن با هدف سازمانی.",
+      "category": "کوچینگ در سازمان",
+      "format": "تمایز حرفه‌ای",
+      "evidence": "تمایز مبتنی بر تجربه",
+      "sourceNote": "این تمایز از تجربه کوچینگ اجرایی و سازمانی شکل گرفته و رویکرد کاری مهدی را توضیح می‌دهد؛ نه اینکه به‌عنوان یک مدل جهان‌شمول ارائه شود.",
+      "status": "published"
+    },
+    {
+      "id": "fa:better-context-produces-more-useful-ai",
+      "language": "fa",
+      "slug": "better-context-produces-more-useful-ai",
+      "path": "/fa/thinking/better-context-produces-more-useful-ai",
+      "title": "زمینه بهتر، هوش مصنوعی مفیدتری می‌سازد",
+      "description": "هوش مصنوعی زمانی ارزشمندتر می‌شود که تجربه واقعی و دانش قابل ردیابی را گسترش دهد، نه اینکه از یک پرامپت کم‌عمق تخصص بسازد.",
+      "category": "انسان و هوش مصنوعی",
+      "format": "یادداشت تحلیلی",
+      "evidence": "تأمل مبتنی بر منبع",
+      "sourceNote": "این نوشته از تأمل مهدی بر ارائه کالین اسکاتلند در Coaching.com درباره استفاده از هوش مصنوعی برای توسعه کسب‌وکار کوچینگ و ساخت دانش حرفه‌ای شکل گرفته است.",
+      "status": "published"
+    }
+  ]
+}
