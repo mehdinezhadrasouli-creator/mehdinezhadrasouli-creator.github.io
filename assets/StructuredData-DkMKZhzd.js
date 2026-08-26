@@ -1,1 +1,0 @@
-import{y as e}from"./site-CCueeWRv.js";var t=e();function n({data:e}){let n=JSON.stringify(e).replace(/</g,`\\u003c`);return(0,t.jsx)(`script`,{type:`application/ld+json`,dangerouslySetInnerHTML:{__html:n}})}export{n as t};
