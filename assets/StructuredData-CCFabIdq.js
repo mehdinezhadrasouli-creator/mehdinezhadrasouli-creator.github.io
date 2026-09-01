@@ -1,0 +1,1 @@
+import{x as e}from"./site-B9G3thRN.js";var t=e();function n({data:e}){let n=JSON.stringify(e).replace(/</g,`\\u003c`);return(0,t.jsx)(`script`,{type:`application/ld+json`,dangerouslySetInnerHTML:{__html:n}})}export{n as t};
