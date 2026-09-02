@@ -1,75 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/work</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/work/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/work/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/work/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/thinking</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/thinking/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/approach</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/approach/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/approach/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/approach/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/approach/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/about</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/about/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/about/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/start</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/start/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/start/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/start/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/start/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/fa/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/work</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/fa/work/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/work/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/work/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/work/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/thinking</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/fa/thinking/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/approach</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/fa/approach/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/approach/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/approach/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/approach/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/about</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/fa/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/about/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/about/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/start</loc>
-    <lastmod>2026-08-26</lastmod>
+    <loc>https://mehdinejadrasouli.com/fa/start/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/start/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/start/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/start/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/thinking/people-questions-are-rarely-only-people-questions</loc>
+    <loc>https://mehdinejadrasouli.com/fa/tools/life-wheel/</loc>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/life-wheel/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/thinking/people-questions-are-rarely-only-people-questions/</loc>
     <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/people-questions-are-rarely-only-people-questions/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/people-questions-are-rarely-only-people-questions/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/people-questions-are-rarely-only-people-questions/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/thinking/individual-coaching-is-not-organizational-coaching</loc>
+    <loc>https://mehdinejadrasouli.com/thinking/individual-coaching-is-not-organizational-coaching/</loc>
     <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/individual-coaching-is-not-organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/individual-coaching-is-not-organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/individual-coaching-is-not-organizational-coaching/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/thinking/better-context-produces-more-useful-ai</loc>
+    <loc>https://mehdinejadrasouli.com/thinking/better-context-produces-more-useful-ai/</loc>
     <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/better-context-produces-more-useful-ai/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/better-context-produces-more-useful-ai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/better-context-produces-more-useful-ai/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/thinking/people-questions-are-rarely-only-people-questions</loc>
+    <loc>https://mehdinejadrasouli.com/fa/thinking/people-questions-are-rarely-only-people-questions/</loc>
     <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/people-questions-are-rarely-only-people-questions/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/people-questions-are-rarely-only-people-questions/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/people-questions-are-rarely-only-people-questions/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/thinking/individual-coaching-is-not-organizational-coaching</loc>
+    <loc>https://mehdinejadrasouli.com/fa/thinking/individual-coaching-is-not-organizational-coaching/</loc>
     <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/individual-coaching-is-not-organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/individual-coaching-is-not-organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/individual-coaching-is-not-organizational-coaching/" />
   </url>
   <url>
-    <loc>https://mehdinezhadrasouli-creator.github.io/fa/thinking/better-context-produces-more-useful-ai</loc>
+    <loc>https://mehdinejadrasouli.com/fa/thinking/better-context-produces-more-useful-ai/</loc>
     <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/thinking/better-context-produces-more-useful-ai/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/thinking/better-context-produces-more-useful-ai/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/thinking/better-context-produces-more-useful-ai/" />
   </url>
 </urlset>

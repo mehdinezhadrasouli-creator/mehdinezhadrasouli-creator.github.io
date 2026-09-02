@@ -1,0 +1,1 @@
+var e=`/assets/mehdi-primary-optimized-BDXkRewB.jpg`;export{e as t};

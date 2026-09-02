@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mehdinezhadrasouli-creator.github.io/sitemap.xml
+Sitemap: https://mehdinejadrasouli.com/sitemap.xml
