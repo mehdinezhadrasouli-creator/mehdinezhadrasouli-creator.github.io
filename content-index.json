@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-02T16:42:55.364Z",
+  "generatedAt": "2026-09-07T14:54:26.483Z",
   "assets": [
     {
       "id": "en:people-questions-are-rarely-only-people-questions",
@@ -42,6 +42,19 @@
       "status": "published"
     },
     {
+      "id": "en:succession-starts-before-resignation",
+      "language": "en",
+      "slug": "succession-starts-before-resignation",
+      "path": "/thinking/succession-starts-before-resignation",
+      "title": "Succession planning starts before resignation, not after",
+      "description": "A counteroffer after resignation is often too late. Succession work begins when people can still see a future inside the organization—and when internal mobility is treated as a success, not a loss.",
+      "category": "HR & Organization",
+      "format": "Practice essay",
+      "evidence": "Practice + research",
+      "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
       "id": "fa:people-questions-are-rarely-only-people-questions",
       "language": "fa",
       "slug": "people-questions-are-rarely-only-people-questions",
@@ -78,6 +91,19 @@
       "format": "یادداشت تحلیلی",
       "evidence": "تأمل مبتنی بر منبع",
       "sourceNote": "این نوشته از تأمل مهدی بر ارائه کالین اسکاتلند در Coaching.com درباره استفاده از هوش مصنوعی برای توسعه کسب‌وکار کوچینگ و ساخت دانش حرفه‌ای شکل گرفته است.",
+      "status": "published"
+    },
+    {
+      "id": "fa:succession-starts-before-resignation",
+      "language": "fa",
+      "slug": "succession-starts-before-resignation",
+      "path": "/fa/thinking/succession-starts-before-resignation",
+      "title": "جانشین‌پروری قبل از استعفا شروع می‌شود، نه بعد از آن",
+      "description": "پیشنهاد ماندن بعد از استعفا معمولاً دیر است. جانشین‌پروری وقتی شروع می‌شود که فرد هنوز بتواند آینده‌ای داخل سازمان ببیند و جابه‌جایی داخلی موفقیت شمرده شود، نه ازدست‌دادن نیرو.",
+      "category": "منابع انسانی و سازمان",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش",
+      "sourceNote": "این نوشته بر تجربه حرفه‌ای منابع انسانی استوار است. فرد، مدیر، کارفرما یا مورد کوچینگ قابل شناسایی نیست. منابع پژوهشی مقاله Gallup، McKinsey & Company و SHRM هستند و لینک منابع در بخش «منابع پژوهشی» آمده است.",
       "status": "published"
     }
   ]
