@@ -1,26 +1,29 @@
 # Mehdi Nejadrasouli · Executive & Organizational Coach
 
-Mehdi Nejadrasouli is an ICF PCC executive and organizational coach and senior HR leader. He works in Persian and English, from Tehran and remotely.
+Mehdi Nejadrasouli (also written Mehdi Nejad Rasouli; Persian: مهدی نژادرسولی) is an ICF PCC executive and organizational coach and senior HR leader. He works in Persian and English, from Tehran and remotely.
 
 ## Primary identity
 
 - Name: Mehdi Nejadrasouli
+- Alternate names: مهدی نژادرسولی; Mehdi Nejad Rasouli
 - Roles: Executive Coach; Organizational Coach; Senior HR Leader
 - Credential: ICF Professional Certified Coach (PCC)
 - Experience: 700+ professional coaching hours; 15+ years in HR and people leadership
-- Focus: leadership transitions, organizational coaching, strategic HR, leadership development, organizational effectiveness, human and AI collaboration
+- Focus: executive coaching, organizational coaching, leadership transitions, strategic human resources, leadership development, organizational effectiveness
 
 ## Public sections
 
-- /work — executive coaching, organizational coaching and strategic HR advisory
-- /thinking — source- and practice-grounded essays and notes
-- /approach — Mehdi's evidence-informed professional approach
+- /work — overview of executive coaching, organizational coaching and strategic HR advisory
+- /executive-coaching — dedicated executive coaching page
+- /organizational-coaching — dedicated organizational coaching page, including contracting and confidentiality
+- /strategic-hr-advisory — dedicated strategic HR advisory page
+- /thinking — source- and practice-grounded essays
+- /approach — evidence-informed professional approach
 - /about — professional background and working principles
 - /start — discovery conversation, fit, process and contact routes
-- /fa/ — Persian home
-- /fa/work/ — Persian explanation of services and engagement expectations
-- /fa/thinking/ — Persian articles and practice notes
-- /fa/tools/life-wheel/ — Persian Personal Wellbeing Index reflection tool
+- /fa/ — Persian equivalents of the same public architecture
+
+Current Thinking essays cover agency when the system will not change, organizational coaching contracts, and succession work before resignation. An older AI note remains at its historical URL but is not part of the public library.
 
 ## Contact and discovery
 
@@ -32,4 +35,4 @@ The discovery conversation clarifies the situation and tests fit. It does not au
 
 ## Evidence and confidentiality
 
-Every public asset should identify whether it is grounded in practice, research, a named source or clearly labelled reflection. Client identity and identifiable coaching material are not public content.
+Every public asset should identify whether it is grounded in practice, research, a named source or clearly labelled reflection. Client identity and identifiable coaching material are not public content. In organizational coaching, session content remains confidential even when purpose and progress review are contracted with a sponsor.

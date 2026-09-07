@@ -37,6 +37,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/start/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/executive-coaching/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/executive-coaching/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/executive-coaching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/executive-coaching/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/organizational-coaching/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/organizational-coaching/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/strategic-hr-advisory/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/strategic-hr-advisory/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/strategic-hr-advisory/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/strategic-hr-advisory/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/fa/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/" />
@@ -71,6 +89,24 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/start/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/start/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/start/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/executive-coaching/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/executive-coaching/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/executive-coaching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/executive-coaching/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/organizational-coaching/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/organizational-coaching/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/organizational-coaching/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/strategic-hr-advisory/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/strategic-hr-advisory/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/strategic-hr-advisory/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/strategic-hr-advisory/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/fa/tools/life-wheel/</loc>
