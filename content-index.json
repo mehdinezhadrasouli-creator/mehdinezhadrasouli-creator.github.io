@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-07T22:43:52.240Z",
+  "generatedAt": "2026-09-08T19:09:58.676Z",
   "assets": [
+    {
+      "id": "en:client-owns-direction-coach-stewards-process",
+      "language": "en",
+      "slug": "client-owns-direction-coach-stewards-process",
+      "path": "/thinking/client-owns-direction-coach-stewards-process",
+      "title": "The client chooses the direction; the coach helps keep it visible",
+      "description": "Client-led coaching does not mean leaving the process unattended. The client owns the topic, meaning and decisions; the coach helps hold the agreement, focus and changes of direction in partnership.",
+      "category": "Coaching & Leadership",
+      "format": "Reflective practice essay",
+      "evidence": "Reflective practice + ICF standard",
+      "sourceNote": "This essay grew from a professional review of several coaching sessions and a comparison with the 2025 ICF Core Competencies. Session evidence was used only for coach learning and reflection; no client story, quotation, result or identifying detail is published. The distinction proposed here is a working principle under examination, not a validated model or a claim of effectiveness.",
+      "status": "published"
+    },
     {
       "id": "en:people-questions-are-rarely-only-people-questions",
       "language": "en",
@@ -39,6 +52,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:client-owns-direction-coach-stewards-process",
+      "language": "fa",
+      "slug": "client-owns-direction-coach-stewards-process",
+      "path": "/fa/thinking/client-owns-direction-coach-stewards-process",
+      "title": "مراجع مسیر را انتخاب می‌کند؛ کوچ کمک می‌کند مسیر گم نشود",
+      "description": "مراجع‌محوری به این معنا نیست که کوچ فرایند را رها کند. مراجع مالک موضوع، معنا و تصمیم است؛ کوچ نیز کمک می‌کند قرارداد، تمرکز و تغییر مسیر به‌شکل مشارکتی نگه داشته شوند.",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله خودبازتابی حرفه‌ای",
+      "evidence": "خودبازتابی حرفه‌ای + استاندارد ICF",
+      "sourceNote": "این مقاله از بازبینی حرفه‌ای چند جلسه کوچینگ و تطبیق آن با شایستگی‌های اصلی ICF در سال ۲۰۲۵ شکل گرفته است. شواهد جلسات فقط برای یادگیری و خودبازتابی کوچ استفاده شده‌اند؛ هیچ روایت، نقل‌قول، نتیجه یا اطلاعات قابل‌شناسایی از مراجعان در متن منتشر نشده است. تمایز مطرح‌شده یک اصل کاری در حال بررسی است، نه مدل اعتبارسنجی‌شده یا ادعای اثربخشی.",
       "status": "published"
     },
     {
