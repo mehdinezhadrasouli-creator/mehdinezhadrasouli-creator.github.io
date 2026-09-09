@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
+Disallow: /404.html
+
+# Machine-readable practice context: /llms.txt
 
 Sitemap: https://mehdinejadrasouli.com/sitemap.xml
