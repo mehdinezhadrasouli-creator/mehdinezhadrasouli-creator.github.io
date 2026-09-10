@@ -1,0 +1,1 @@
+var e=`/assets/mehdi-primary-editorial-ClXES4LT.jpg`;export{e as t};
