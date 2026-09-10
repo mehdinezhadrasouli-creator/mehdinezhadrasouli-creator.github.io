@@ -1,1 +1,0 @@
-var e=`/assets/mehdi-executive-optimized-CO0PRl9N.jpg`;export{e as t};
