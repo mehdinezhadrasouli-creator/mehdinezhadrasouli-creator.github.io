@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-10T17:11:15.723Z",
+  "generatedAt": "2026-09-11T12:12:41.014Z",
   "assets": [
+    {
+      "id": "en:how-to-choose-an-executive-coach",
+      "language": "en",
+      "slug": "how-to-choose-an-executive-coach",
+      "path": "/thinking/how-to-choose-an-executive-coach",
+      "title": "How to Choose the Right Executive Coach",
+      "description": "Seven things worth checking before you start working together",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "Practice + ICF guidance",
+      "sourceNote": "Drawn from professional coaching practice and publicly available ICF guidance on credentials, coach selection and ethics. Session patterns are described without client stories, quotations, outcomes or identifying detail. This is practical guidance for choosing a coach, not a claim that any single credential or conversation guarantees fit.",
+      "status": "published"
+    },
     {
       "id": "en:client-owns-direction-coach-stewards-process",
       "language": "en",
@@ -52,6 +65,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:how-to-choose-an-executive-coach",
+      "language": "fa",
+      "slug": "how-to-choose-an-executive-coach",
+      "path": "/fa/thinking/how-to-choose-an-executive-coach",
+      "title": "چطور یک کوچ اجرایی مناسب انتخاب کنیم؟",
+      "description": "۷ چیزی که قبل از شروع همکاری بهتر است بررسی کنید",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + راهنمای ICF",
+      "sourceNote": "این مطلب بر پایه تجربه کوچینگ حرفه‌ای و راهنماهای عمومی ICF درباره مدرک، انتخاب کوچ و اصول اخلاقی نوشته شده است. الگوهای جلسات بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده‌اند. این متن راهنمای عملی برای انتخاب کوچ است، نه ادعای اینکه یک مدرک یا یک گفت‌وگو به‌تنهایی تناسب را تضمین می‌کند.",
       "status": "published"
     },
     {
