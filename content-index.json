@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-11T12:12:41.014Z",
+  "generatedAt": "2026-09-11T17:14:23.428Z",
   "assets": [
     {
       "id": "en:how-to-choose-an-executive-coach",
@@ -13,6 +13,19 @@
       "format": "Practice essay",
       "evidence": "Practice + ICF guidance",
       "sourceNote": "Drawn from professional coaching practice and publicly available ICF guidance on credentials, coach selection and ethics. Session patterns are described without client stories, quotations, outcomes or identifying detail. This is practical guidance for choosing a coach, not a claim that any single credential or conversation guarantees fit.",
+      "status": "published"
+    },
+    {
+      "id": "en:why-difficult-conversations-get-delayed",
+      "language": "en",
+      "slug": "why-difficult-conversations-get-delayed",
+      "path": "/thinking/why-difficult-conversations-get-delayed",
+      "title": "Why We Delay Difficult Conversations",
+      "description": "When the real issue is not only what to say",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "Practice + ICF guidance + management literature",
+      "sourceNote": "Drawn from recurring patterns in executive coaching sessions with managers, described without client stories, quotations, outcomes or identifying detail. ICF Core Competencies and PCC assessment criteria inform the coaching stance. Harvard Business Review essays on executive conflict avoidance and when to skip a difficult conversation are cited as external context, not as proof of any client result. Clarity, respect and accountability are a practice framing from work with managers, not a validated research model.",
       "status": "published"
     },
     {
@@ -78,6 +91,19 @@
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + راهنمای ICF",
       "sourceNote": "این مطلب بر پایه تجربه کوچینگ حرفه‌ای و راهنماهای عمومی ICF درباره مدرک، انتخاب کوچ و اصول اخلاقی نوشته شده است. الگوهای جلسات بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده‌اند. این متن راهنمای عملی برای انتخاب کوچ است، نه ادعای اینکه یک مدرک یا یک گفت‌وگو به‌تنهایی تناسب را تضمین می‌کند.",
+      "status": "published"
+    },
+    {
+      "id": "fa:why-difficult-conversations-get-delayed",
+      "language": "fa",
+      "slug": "why-difficult-conversations-get-delayed",
+      "path": "/fa/thinking/why-difficult-conversations-get-delayed",
+      "title": "چرا گفت‌وگوهای دشوار را عقب می‌اندازیم؟",
+      "description": "وقتی مسئله فقط این نیست که «چه بگویم؟»",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + راهنمای ICF + ادبیات مدیریت",
+      "sourceNote": "این مطلب بر پایه الگوهای تکرارشونده در جلسات کوچینگ اجرایی با مدیران نوشته شده و بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده است. شایستگی‌های اصلی ICF و معیارهای ارزیابی PCC موضع کوچینگ را شکل می‌دهند. مقالات Harvard Business Review درباره اجتناب مدیران باتجربه از تعارض و درباره اینکه چه زمانی می‌توان از گفت‌وگوی دشوار صرف‌نظر کرد، به‌عنوان زمینه بیرونی آمده‌اند، نه به‌عنوان اثبات نتیجه برای مراجعان. شفافیت، احترام و مسئولیت‌پذیری چارچوب فکری برآمده از تجربه کار با مدیران است، نه یک مدل پژوهشی اعتبارسنجی‌شده.",
       "status": "published"
     },
     {
