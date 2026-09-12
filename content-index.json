@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T16:00:13.646Z",
+  "generatedAt": "2026-09-12T17:12:40.198Z",
   "assets": [
+    {
+      "id": "en:when-promotion-becomes-proof-of-worth",
+      "language": "en",
+      "slug": "when-promotion-becomes-proof-of-worth",
+      "path": "/thinking/when-promotion-becomes-proof-of-worth",
+      "title": "Promotion Is Not Always Just Promotion: When the Next Role Becomes a Test of Self-Worth",
+      "description": "Sometimes the question behind “How do I get promoted?” is a different one",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "Practice + contingent self-worth research + promotions research",
+      "sourceNote": "Drawn from an initial analysis of 48 coaching clients and more than 100 coaching sessions, described without client stories, quotations, outcomes or identifying detail. That subset is not the same as the broader total of 700+ professional coaching hours. The pattern of promotion becoming entangled with self-worth is a recurring observation from this coaching practice, not a scientific model and not a claim about everyone seeking promotion. The value / readiness / opportunity lens is a practical framing from this work, not a validated research model. Contingent self-worth research and promotions research are cited as external context, not as proof of any client result.",
+      "status": "published"
+    },
     {
       "id": "en:when-your-manager-is-the-problem",
       "language": "en",
@@ -91,6 +104,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:when-promotion-becomes-proof-of-worth",
+      "language": "fa",
+      "slug": "when-promotion-becomes-proof-of-worth",
+      "path": "/fa/thinking/when-promotion-becomes-proof-of-worth",
+      "title": "ارتقا همیشه فقط ارتقا نیست؛ وقتی جایگاه بالاتر تبدیل به آزمون ارزشمندی می‌شود",
+      "description": "گاهی پشت سؤال «چطور ارتقا بگیرم؟» سؤال دیگری هم وجود دارد",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش ارزشمندی مشروط + پژوهش ارتقا",
+      "sourceNote": "این مطلب بر پایه تحلیل اولیه ۴۸ مراجع و بیش از ۱۰۰ جلسه کوچینگ نوشته شده و بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده است. این زیرمجموعه با مجموع بیش از ۷۰۰ ساعت کوچینگ حرفه‌ای یکی نیست. الگوی اتصال ارتقا به ارزشمندی، مشاهده‌ای تکرارشونده از تجربه کوچینگ نویسنده است، نه یک مدل علمی و نه تعمیمی به همه افرادی که دنبال ارتقا هستند. چارچوب ارزشمندی، آمادگی و فرصت یک قاب‌بندی عملی از تجربه نویسنده است، نه یک مدل پژوهشی اعتبارسنجی‌شده. مفهوم ارزشمندی مشروط و پژوهش ارتقا و اصل پیتر به‌عنوان زمینه بیرونی آمده‌اند، نه به‌عنوان اثبات نتیجه مراجع.",
       "status": "published"
     },
     {
