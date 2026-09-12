@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T00:02:08.334Z",
+  "generatedAt": "2026-09-12T00:35:32.217Z",
   "assets": [
+    {
+      "id": "en:when-your-manager-is-the-problem",
+      "language": "en",
+      "slug": "when-your-manager-is-the-problem",
+      "path": "/thinking/when-your-manager-is-the-problem",
+      "title": "When Your Manager Is the Problem, What Can You Still Control?",
+      "description": "Seeing your part is not the same as blaming yourself",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "Practice + LMX research + managing-up literature + ICF guidance",
+      "sourceNote": "Drawn from an initial analysis of 48 coaching clients and more than 100 coaching sessions, described without client stories, quotations, outcomes or identifying detail. “Manager as a Mirror” is a recurring observation from this coaching practice, not a scientific model or psychological diagnosis. Leader–Member Exchange meta-analyses and Harvard Business Review’s Managing Your Boss are cited as external context on relationship quality and clarifying mutual expectations. ICF Core Competencies and PCC assessment criteria inform the coaching stance. Formal power between manager and employee is not assumed to be equal.",
+      "status": "published"
+    },
     {
       "id": "en:how-to-choose-an-executive-coach",
       "language": "en",
@@ -78,6 +91,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:when-your-manager-is-the-problem",
+      "language": "fa",
+      "slug": "when-your-manager-is-the-problem",
+      "path": "/fa/thinking/when-your-manager-is-the-problem",
+      "title": "وقتی مدیر مسئله است، سهم خودمان را از کجا ببینیم؟",
+      "description": "دیدن سهم خودمان به معنی مقصر دانستن خودمان نیست",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش LMX + ادبیات مدیریت رابطه با مدیر + راهنمای ICF",
+      "sourceNote": "این مطلب بر پایه تحلیل اولیه ۴۸ مراجع و بیش از ۱۰۰ جلسه کوچینگ نوشته شده و بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده است. «رابطه با مدیر به‌عنوان آینه‌ای برای دیدن الگوهای خودمان (Manager as a Mirror)» مشاهده‌ای تکرارشونده از تجربه کوچینگ نویسنده است، نه یک مدل علمی یا تشخیص روان‌شناختی. فراتحلیل‌های Leader–Member Exchange و مقاله Managing Your Boss در Harvard Business Review به‌عنوان زمینه بیرونی درباره کیفیت رابطه و روشن‌کردن انتظارات آمده‌اند. شایستگی‌های اصلی ICF و معیارهای ارزیابی PCC موضع کوچینگ را شکل می‌دهند. برابری قدرت رسمی میان مدیر و فرد فرض نشده است.",
       "status": "published"
     },
     {
