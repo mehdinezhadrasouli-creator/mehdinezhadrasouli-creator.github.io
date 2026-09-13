@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T11:40:10.963Z",
+  "generatedAt": "2026-09-13T18:58:02.769Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -13,6 +13,19 @@
       "format": "Practice essay",
       "evidence": "Practice + leader role-transition research + promotions research",
       "sourceNote": "The core of this article comes from recurring patterns observed in professional coaching experience: the shift from specialist to leader, difficulty with delegation, control versus trust, the psychological weight of responsibility, and the gap between a new title and an older professional identity. These are qualitative, aggregated observations from coaching practice, not a representative research sample of managers. They are used to form observations and questions, not statistical claims about all managers. Independent research is cited separately to test and contextualize these observations. Examples and patterns are written without identifying client detail.",
+      "status": "published"
+    },
+    {
+      "id": "en:before-coaching-leader-check-system",
+      "language": "en",
+      "slug": "before-coaching-leader-check-system",
+      "path": "/thinking/before-coaching-leader-check-system",
+      "title": "Before Coaching the Leader, Check the System",
+      "description": "Not every leadership problem is an individual problem",
+      "category": "Coaching in Organizations",
+      "format": "Practice essay",
+      "evidence": "Practice + research",
+      "sourceNote": "This article is grounded in professional experience across HR leadership, coaching, and the design of development interventions. These are qualitative professional observations, not a statistical study or a scientifically validated model. Independent research on context and work design supports the broader principle that behavior should also be understood in relation to situational constraints, autonomy, role demands, and the design of work. The limited claim of this article is that before choosing an individual intervention, examining systemic factors can improve the definition of the problem. No client, manager or organization is identifiable.",
       "status": "published"
     },
     {
@@ -130,6 +143,19 @@
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش انتقال به نقش رهبری + پژوهش ارتقا",
       "sourceNote": "هسته این مقاله از مشاهده چند الگوی تکرارشونده در تجربه حرفه‌ای کوچینگ نویسنده آمده است: انتقال از متخصص به رهبر، سختی در واگذاری، کنترل در برابر اعتماد، وزن روانی مسئولیت و فاصله میان عنوان جدید و هویت حرفه‌ای قدیمی. این‌ها شواهد کیفی و تجمیعی از تجربه کوچینگ‌اند، نه یک نمونه پژوهشی نماینده جامعه مدیران. بنابراین از آن‌ها برای ساختن مشاهده و سؤال استفاده شده، نه برای ادعای آماری درباره همه مدیران. پژوهش‌های مستقل نیز جداگانه برای آزمون و قرار دادن این مشاهدات در زمینه بیرونی استفاده شده‌اند. مثال‌ها و الگوها بدون اطلاعات قابل‌شناسایی از مراجعان نوشته شده‌اند.",
+      "status": "published"
+    },
+    {
+      "id": "fa:before-coaching-leader-check-system",
+      "language": "fa",
+      "slug": "before-coaching-leader-check-system",
+      "path": "/fa/thinking/before-coaching-leader-check-system",
+      "title": "قبل از کوچینگ مدیر، سیستم را هم بررسی کنید",
+      "description": "همه مسئله‌های رهبری، مسئله فردی نیستند",
+      "category": "کوچینگ در سازمان",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش",
+      "sourceNote": "هسته این مقاله از تجربه حرفه‌ای من در رهبری منابع انسانی، کوچینگ و طراحی مداخلات توسعه‌ای شکل گرفته است. این مشاهدات کیفی و حرفه‌ای‌اند و یک مطالعه آماری یا مدل علمی اعتبارسنجی‌شده نیستند. پژوهش مستقل درباره زمینه (context) و طراحی شغل (work design) از اصل گسترده‌تری حمایت می‌کند: رفتار را باید در زمینه، اختیار و طراحی کار هم فهمید. ادعای محدود این مقاله این است که پیش از انتخاب یک مداخله فردمحور، بررسی عوامل سیستمی می‌تواند تعریف مسئله را دقیق‌تر کند. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست.",
       "status": "published"
     },
     {
