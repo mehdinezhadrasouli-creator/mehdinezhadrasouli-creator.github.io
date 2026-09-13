@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-12T21:34:19.602Z",
+  "generatedAt": "2026-09-13T11:15:58.856Z",
   "assets": [
+    {
+      "id": "en:after-promotion-pressure-leadership-transition",
+      "language": "en",
+      "slug": "after-promotion-pressure-leadership-transition",
+      "path": "/thinking/after-promotion-pressure-leadership-transition",
+      "title": "Why Does Pressure Increase After a Promotion?",
+      "description": "Sometimes the new role moves faster than our sense of who we are in it",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "Practice + leader role-transition research + promotions research",
+      "sourceNote": "The core of this article comes from recurring patterns observed in professional coaching experience: the shift from specialist to leader, difficulty with delegation, control versus trust, the psychological weight of responsibility, and the gap between a new title and an older professional identity. These are qualitative, aggregated observations from coaching practice, not a representative research sample of managers. They are used to form observations and questions, not statistical claims about all managers. Independent research is cited separately to test and contextualize these observations. Examples and patterns are written without identifying client detail.",
+      "status": "published"
+    },
     {
       "id": "en:when-promotion-becomes-proof-of-worth",
       "language": "en",
@@ -104,6 +117,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:after-promotion-pressure-leadership-transition",
+      "language": "fa",
+      "slug": "after-promotion-pressure-leadership-transition",
+      "path": "/fa/thinking/after-promotion-pressure-leadership-transition",
+      "title": "چرا بعد از ارتقا، فشار بیشتر می‌شود؟",
+      "description": "گاهی نقش جدید جلوتر از تصویری است که هنوز از خودمان داریم",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش انتقال به نقش رهبری + پژوهش ارتقا",
+      "sourceNote": "هسته این مقاله از مشاهده چند الگوی تکرارشونده در تجربه حرفه‌ای کوچینگ نویسنده آمده است: انتقال از متخصص به رهبر، سختی در واگذاری، کنترل در برابر اعتماد، وزن روانی مسئولیت و فاصله میان عنوان جدید و هویت حرفه‌ای قدیمی. این‌ها شواهد کیفی و تجمیعی از تجربه کوچینگ‌اند، نه یک نمونه پژوهشی نماینده جامعه مدیران. بنابراین از آن‌ها برای ساختن مشاهده و سؤال استفاده شده، نه برای ادعای آماری درباره همه مدیران. پژوهش‌های مستقل نیز جداگانه برای آزمون و قرار دادن این مشاهدات در زمینه بیرونی استفاده شده‌اند. مثال‌ها و الگوها بدون اطلاعات قابل‌شناسایی از مراجعان نوشته شده‌اند.",
       "status": "published"
     },
     {
