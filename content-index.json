@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-13T19:34:03.048Z",
+  "generatedAt": "2026-09-14T11:24:33.684Z",
   "assets": [
+    {
+      "id": "en:measuring-organizational-coaching-impact",
+      "language": "en",
+      "slug": "measuring-organizational-coaching-impact",
+      "path": "/thinking/measuring-organizational-coaching-impact",
+      "title": "How Do We Know Organizational Coaching Actually Worked?",
+      "description": "A good session is not the same as evidence of impact",
+      "category": "Coaching in Organizations",
+      "format": "Practice essay",
+      "evidence": "Practice + research",
+      "sourceNote": "This article rests on two evidence layers. The first is my practical experience implementing an organizational coaching program whose architecture already included goals, observable behaviours, manager input, a midpoint review and a final review. That is experience working within the architecture, not a claim of proprietary authorship. The second is independent research on workplace coaching effectiveness and leaders’ reports of behavioural change after coaching. These sources do not allow the claim that coaching alone produced every business outcome. The narrower, defensible claim is that organizational coaching impact is better measured when the expected change is connected from the start to observable behaviour, an appropriate witness and a defined review point. No client, manager or organization is identifiable.",
+      "status": "published"
+    },
     {
       "id": "en:after-promotion-pressure-leadership-transition",
       "language": "en",
@@ -130,6 +143,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:measuring-organizational-coaching-impact",
+      "language": "fa",
+      "slug": "measuring-organizational-coaching-impact",
+      "path": "/fa/thinking/measuring-organizational-coaching-impact",
+      "title": "از کجا بفهمیم کوچینگ سازمانی واقعاً اثر داشته است؟",
+      "description": "رضایت از جلسه، همان اثر کوچینگ نیست",
+      "category": "کوچینگ در سازمان",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش",
+      "sourceNote": "این مقاله بر دو لایه شواهد بنا شده است. لایه اول، تجربه عملی من در اجرای یک برنامه کوچینگ سازمانی است که در معماری آن، هدف‌ها، رفتارهای قابل‌مشاهده، نظر مدیر، بازبینی میانی و بازبینی پایانی از ابتدا دیده شده‌اند؛ این تجربه اجرای برنامه است، نه ادعای تألیف اختصاصی آن معماری. لایه دوم، پژوهش‌های مستقل درباره اثربخشی کوچینگ در محیط کار و گزارش مدیران از تغییرهای رفتاری پس از کوچینگ است. این شواهد اجازه نمی‌دهند بگوییم کوچینگ به‌تنهایی هر نتیجه کسب‌وکاری را ایجاد کرده است. ادعای محدودتر و قابل‌دفاع این مقاله این است: اثر کوچینگ سازمانی بهتر سنجیده می‌شود وقتی از ابتدا تغییر مورد انتظار را به رفتار قابل‌مشاهده، شاهد مناسب و زمان بازبینی مشخص وصل کنیم. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست.",
       "status": "published"
     },
     {
