@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T13:21:14.316Z",
+  "generatedAt": "2026-09-14T17:01:45.233Z",
   "assets": [
+    {
+      "id": "en:when-not-to-start-organizational-coaching",
+      "language": "en",
+      "slug": "when-not-to-start-organizational-coaching",
+      "path": "/thinking/when-not-to-start-organizational-coaching",
+      "title": "When Is It Better Not to Start Organizational Coaching?",
+      "description": "Sometimes the issue is not coaching quality; it is whether the conditions are ready",
+      "category": "Coaching in Organizations",
+      "format": "Practice essay",
+      "evidence": "Practice + research",
+      "sourceNote": "This article draws on my practical experience with managerial issues and organizational coaching programs, interpreted alongside professional standards and independent research. The readiness questions are a practical diagnostic lens, not a validated predictive model.",
+      "status": "published"
+    },
     {
       "id": "en:manager-role-organizational-coaching",
       "language": "en",
@@ -156,6 +169,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:when-not-to-start-organizational-coaching",
+      "language": "fa",
+      "slug": "when-not-to-start-organizational-coaching",
+      "path": "/fa/thinking/when-not-to-start-organizational-coaching",
+      "title": "چه زمانی بهتر است کوچینگ سازمانی را شروع نکنیم؟",
+      "description": "گاهی مسئله، کیفیت کوچینگ نیست؛ زمان و شرایط شروع آن است",
+      "category": "کوچینگ در سازمان",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش",
+      "sourceNote": "این مقاله بر تجربه عملی من در مواجهه با مسائل مدیریتی و اجرای برنامه‌های کوچینگ سازمانی، در کنار استانداردهای حرفه‌ای و پژوهش‌های مستقل تکیه دارد. سؤال‌های آمادگی، یک نگاه تشخیصی عملی‌اند، نه مدل علمی اعتبارسنجی‌شده برای پیش‌بینی موفقیت.",
       "status": "published"
     },
     {
