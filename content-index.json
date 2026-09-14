@@ -1,7 +1,20 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T11:45:58.947Z",
+  "generatedAt": "2026-09-14T12:13:16.789Z",
   "assets": [
+    {
+      "id": "en:manager-role-organizational-coaching",
+      "language": "en",
+      "slug": "manager-role-organizational-coaching",
+      "path": "/thinking/manager-role-organizational-coaching",
+      "title": "What Role Should the Direct Manager Play in Organizational Coaching?",
+      "description": "Support the change without entering the confidential coaching conversation",
+      "category": "Coaching in Organizations",
+      "format": "Practice essay",
+      "evidence": "Practice + research",
+      "sourceNote": "This article draws on my practical experience implementing organizational coaching and on independent research about executive coaching, feedback and the work environment. The evidence does not support a simple claim that a particular level of manager involvement causes a particular coaching outcome. The narrower claim is that a direct manager can help transfer change from the coaching conversation into real work, provided there is a clear boundary between supporting observable behaviour and entering confidential session content. No client, manager or organization is identifiable.",
+      "status": "published"
+    },
     {
       "id": "en:measuring-organizational-coaching-impact",
       "language": "en",
@@ -143,6 +156,19 @@
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "status": "published"
+    },
+    {
+      "id": "fa:manager-role-organizational-coaching",
+      "language": "fa",
+      "slug": "manager-role-organizational-coaching",
+      "path": "/fa/thinking/manager-role-organizational-coaching",
+      "title": "مدیر مستقیم در کوچینگ سازمانی چه نقشی دارد؟",
+      "description": "حمایت از تغییر، بدون ورود به محتوای محرمانه جلسات",
+      "category": "کوچینگ در سازمان",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش",
+      "sourceNote": "این مقاله بر تجربه عملی من در اجرای کوچینگ سازمانی و پژوهش‌های مستقل درباره کوچینگ مدیران، بازخورد و محیط کاری تکیه دارد. این شواهد اجازه نمی‌دهند بگوییم میزان مشخصی از مشارکت مدیر مستقیم حتماً باعث نتیجه مشخصی از کوچینگ می‌شود. ادعای محدودتر و قابل‌دفاع این مقاله این است: مدیر مستقیم می‌تواند به انتقال تغییر از جلسه کوچینگ به محیط واقعی کار کمک کند؛ به شرط آنکه میان حمایت از رفتار و ورود به محتوای محرمانه جلسات مرز روشنی وجود داشته باشد. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست.",
       "status": "published"
     },
     {
