@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T18:35:14.350Z",
+  "generatedAt": "2026-09-14T20:53:35.458Z",
   "assets": [
     {
       "id": "en:when-not-to-start-organizational-coaching",
@@ -155,7 +155,7 @@
       "category": "Coaching in Organizations",
       "format": "Practice essay",
       "evidence": "Practice + research",
-      "sourceNote": "Based on professional HR experience, design work for organizational coaching engagements, the ICF Code of Ethics and 2026 research on 686 executives across more than 300 organizations. No client, manager or organization is identifiable; the program design described is not presented as a completed outcome study.",
+      "sourceNote": "Based on professional HR experience, practical experience implementing organizational coaching programs, the ICF Code of Ethics and 2026 research on 686 executives across more than 300 organizations. No client, manager or organization is identifiable; the program architecture described reflects implementation experience, not proprietary design ownership or a completed outcome study.",
       "status": "published"
     },
     {
@@ -324,7 +324,7 @@
       "category": "کوچینگ در سازمان",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
-      "sourceNote": "این نوشته بر تجربه حرفه‌ای منابع انسانی، طراحی برنامه‌های کوچینگ سازمانی، آیین اخلاقی ICF و پژوهش سال ۲۰۲۶ روی ۶۸۶ مدیر در بیش از ۳۰۰ سازمان استوار است. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست و طراحی برنامه اشاره‌شده به‌عنوان مطالعه نتیجه یا تجربه اجراشده معرفی نمی‌شود.",
+      "sourceNote": "این نوشته بر تجربه حرفه‌ای منابع انسانی، تجربه عملی در اجرای برنامه‌های کوچینگ سازمانی، آیین اخلاقی ICF و پژوهش سال ۲۰۲۶ روی ۶۸۶ مدیر در بیش از ۳۰۰ سازمان استوار است. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست و معماری برنامه‌ای که به آن اشاره می‌شود بازتاب تجربه اجراست، نه ادعای مالکیت طراحی اختصاصی یا مطالعه نتیجه تکمیل‌شده.",
       "status": "published"
     },
     {
