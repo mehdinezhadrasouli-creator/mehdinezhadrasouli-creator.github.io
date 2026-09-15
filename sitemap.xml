@@ -73,6 +73,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/five-drivers/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/en/tools/hogan-assessment/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/hogan-assessment/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/hogan-assessment/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/hogan-assessment/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/fa/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/" />
@@ -143,6 +149,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/five-drivers/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/five-drivers/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/five-drivers/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/tools/hogan-assessment/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/hogan-assessment/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/hogan-assessment/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/hogan-assessment/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/thinking/when-not-to-start-organizational-coaching/</loc>
