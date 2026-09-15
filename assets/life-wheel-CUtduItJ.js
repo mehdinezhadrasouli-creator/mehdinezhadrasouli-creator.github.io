@@ -1,1 +1,0 @@
-import{K as e}from"./seo-HKNiIcAF.js";import{t}from"./LifeWheelAssessment-rkvCksUb.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
