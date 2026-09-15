@@ -1,1 +1,0 @@
-import{K as e}from"./seo-DEq2QJoC.js";import{t}from"./LifeWheelAssessment-DsMnenBu.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
