@@ -73,6 +73,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/five-drivers/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/en/tools/big-five/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/big-five/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/big-five/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/big-five/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/en/tools/hogan-assessment/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/hogan-assessment/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/hogan-assessment/" />
@@ -155,6 +161,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/five-drivers/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/five-drivers/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/five-drivers/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/tools/big-five/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/big-five/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/big-five/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/big-five/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/fa/tools/hogan-assessment/</loc>
