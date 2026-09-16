@@ -1,1 +1,0 @@
-import{K as e}from"./seo-BSVbbELd.js";import{t}from"./BigFiveAssessment-CaHIjI95.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};

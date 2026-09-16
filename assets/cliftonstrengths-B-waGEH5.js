@@ -1,1 +1,0 @@
-import{K as e}from"./seo-BSVbbELd.js";import{t}from"./CliftonStrengthsGuide-YPYwYDz7.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
