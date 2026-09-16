@@ -1,0 +1,1 @@
+import{q as e}from"./seo-CHeslNTO.js";import{t}from"./CliftonStrengthsGuide-C3xjZWVe.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};

@@ -1,0 +1,1 @@
+import{i as e,q as t}from"./seo-CHeslNTO.js";import{i as n}from"./ContactDock-DHx7QZyh.js";var r=t();function i({language:t,sourceType:i,source:a,destinationType:o,destination:s,href:c,className:l,children:u}){return(0,r.jsx)(`a`,{href:e(c),className:l,onClick:()=>{try{n({language:t,sourceType:i,source:a,destinationType:o,destination:s})}catch{}},children:u})}export{i as t};

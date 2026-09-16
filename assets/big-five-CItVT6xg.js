@@ -1,0 +1,1 @@
+import{q as e}from"./seo-CHeslNTO.js";import{t}from"./BigFiveAssessment-CC4ydu4B.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
