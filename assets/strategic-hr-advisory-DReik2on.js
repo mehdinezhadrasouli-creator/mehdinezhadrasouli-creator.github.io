@@ -1,1 +1,0 @@
-import{q as e}from"./seo-CHeslNTO.js";import{ht as t}from"./index-EaY9DoRx.js";import{t as n}from"./PersianLayout-BLmydHLn.js";import{t as r}from"./ServiceLanding-D2UkTD32.js";var i=e(),a=()=>(0,i.jsx)(r,{copy:t,language:`fa`,layout:e=>(0,i.jsx)(n,{children:e})});export{a as component};

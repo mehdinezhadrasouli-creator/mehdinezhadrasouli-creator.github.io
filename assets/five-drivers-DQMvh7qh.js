@@ -1,1 +1,0 @@
-import{q as e}from"./seo-CHeslNTO.js";import{t}from"./FiveDriversAssessment-GgQiU_RQ.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
