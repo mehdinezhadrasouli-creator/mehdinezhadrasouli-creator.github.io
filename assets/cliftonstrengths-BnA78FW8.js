@@ -1,0 +1,1 @@
+import{K as e}from"./seo-DyonB-QQ.js";import{t}from"./CliftonStrengthsGuide-_DjFCwiI.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};

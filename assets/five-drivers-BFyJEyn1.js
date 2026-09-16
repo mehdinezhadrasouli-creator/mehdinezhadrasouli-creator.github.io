@@ -1,0 +1,1 @@
+import{K as e}from"./seo-DyonB-QQ.js";import{t}from"./FiveDriversAssessment-Be9_SA_0.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
