@@ -1,0 +1,1 @@
+import{rt as e}from"./seo-BVP5ZkYQ.js";import{gt as t}from"./index-BF5p9wUx.js";import{t as n}from"./SiteLayout-DAB87-CK.js";import{t as r}from"./ServiceLanding-BGU7Ooou.js";var i=e(),a=()=>(0,i.jsx)(r,{copy:t,language:`en`,layout:e=>(0,i.jsx)(n,{children:e})});export{a as component};
