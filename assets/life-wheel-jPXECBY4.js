@@ -1,1 +1,0 @@
-import{rt as e}from"./seo-BVP5ZkYQ.js";import{t}from"./LifeWheelAssessment-f6ssb8-Q.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};

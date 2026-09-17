@@ -1,1 +1,0 @@
-import{rt as e}from"./seo-BVP5ZkYQ.js";import{t}from"./FiveDriversAssessment-DFVo2Ycs.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};

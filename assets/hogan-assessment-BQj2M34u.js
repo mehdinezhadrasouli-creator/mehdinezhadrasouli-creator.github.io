@@ -1,1 +1,0 @@
-import{rt as e}from"./seo-BVP5ZkYQ.js";import{t}from"./HoganAssessmentGuide-B1H71_tc.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
