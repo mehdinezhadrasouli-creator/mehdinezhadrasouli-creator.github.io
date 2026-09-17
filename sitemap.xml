@@ -31,6 +31,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/about/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/media/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/media/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/media/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/media/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/start/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/start/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/start/" />
@@ -91,6 +97,18 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/cliftonstrengths/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/en/tools/organizational-coaching-readiness/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/organizational-coaching-readiness/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/organizational-coaching-readiness/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/organizational-coaching-readiness/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/en/tools/leadership-coaching-transfer-pulse-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/leadership-coaching-transfer-pulse-2026/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/leadership-coaching-transfer-pulse-2026/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/leadership-coaching-transfer-pulse-2026/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/fa/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/" />
@@ -119,6 +137,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/about/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/about/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/about/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/media/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/media/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/media/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/media/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/fa/start/</loc>
@@ -179,6 +203,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/cliftonstrengths/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/cliftonstrengths/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/cliftonstrengths/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/tools/organizational-coaching-readiness/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/organizational-coaching-readiness/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/organizational-coaching-readiness/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/organizational-coaching-readiness/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/tools/leadership-coaching-transfer-pulse-2026/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/leadership-coaching-transfer-pulse-2026/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/leadership-coaching-transfer-pulse-2026/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/leadership-coaching-transfer-pulse-2026/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/thinking/when-not-to-start-organizational-coaching/</loc>
