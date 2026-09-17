@@ -1,1 +1,0 @@
-import{i as e,rt as t}from"./seo-BVP5ZkYQ.js";import{i as n}from"./ContactDock-Cg2fUMe2.js";var r=t();function i({language:t,sourceType:i,source:a,destinationType:o,destination:s,href:c,className:l,children:u}){return(0,r.jsx)(`a`,{href:e(c),className:l,onClick:()=>{try{n({language:t,sourceType:i,source:a,destinationType:o,destination:s})}catch{}},children:u})}export{i as t};
