@@ -1,0 +1,1 @@
+import{rt as e}from"./seo-BVP5ZkYQ.js";import{t}from"./HoganAssessmentGuide-CTt9qfVp.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
