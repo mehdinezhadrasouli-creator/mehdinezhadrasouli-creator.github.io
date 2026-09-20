@@ -1,1 +1,0 @@
-import{ct as e,i as t,l as n}from"./ContactDock-C0pGTlgX.js";var r=e();function i({language:e,sourceType:i,source:a,destinationType:o,destination:s,href:c,className:l,children:u}){return(0,r.jsx)(`a`,{href:n(c),className:l,onClick:()=>{try{t({language:e,sourceType:i,source:a,destinationType:o,destination:s})}catch{}},children:u})}export{i as t};
