@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-20T19:58:41.012Z",
+  "generatedAt": "2026-09-20T20:07:34.481Z",
   "assets": [
     {
       "id": "en:when-not-to-start-organizational-coaching",
@@ -172,6 +172,19 @@
       "status": "published"
     },
     {
+      "id": "en:better-context-produces-more-useful-ai",
+      "language": "en",
+      "slug": "better-context-produces-more-useful-ai",
+      "path": "/thinking/better-context-produces-more-useful-ai",
+      "title": "Better context produces more useful AI",
+      "description": "AI becomes more valuable when it extends grounded experience and traceable knowledge instead of manufacturing expertise from a thin prompt.",
+      "category": "Human & AI",
+      "format": "Analytical note",
+      "evidence": "Source-grounded reflection",
+      "sourceNote": "Developed from Mehdi's reflection on Colin Scotland's Coaching.com presentation about using AI to amplify a coaching business, combined with evidence-first knowledge principles.",
+      "status": "published"
+    },
+    {
       "id": "fa:when-not-to-start-organizational-coaching",
       "language": "fa",
       "slug": "when-not-to-start-organizational-coaching",
@@ -338,6 +351,19 @@
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
       "sourceNote": "این نوشته بر تجربه حرفه‌ای منابع انسانی استوار است. فرد، مدیر، کارفرما یا مورد کوچینگ قابل شناسایی نیست. منابع پژوهشی مقاله Gallup، McKinsey & Company و SHRM هستند و لینک منابع در بخش «منابع پژوهشی» آمده است.",
+      "status": "published"
+    },
+    {
+      "id": "fa:better-context-produces-more-useful-ai",
+      "language": "fa",
+      "slug": "better-context-produces-more-useful-ai",
+      "path": "/fa/thinking/better-context-produces-more-useful-ai",
+      "title": "زمینه بهتر، هوش مصنوعی مفیدتری می‌سازد",
+      "description": "هوش مصنوعی زمانی ارزشمندتر می‌شود که تجربه واقعی و دانش قابل ردیابی را گسترش دهد، نه اینکه از یک پرامپت کم‌عمق تخصص بسازد.",
+      "category": "انسان و هوش مصنوعی",
+      "format": "یادداشت تحلیلی",
+      "evidence": "تأمل مبتنی بر منبع",
+      "sourceNote": "این نوشته از تأمل مهدی بر ارائه کالین اسکاتلند در Coaching.com درباره استفاده از هوش مصنوعی برای توسعه کسب‌وکار کوچینگ و ساخت دانش حرفه‌ای شکل گرفته است.",
       "status": "published"
     }
   ]
