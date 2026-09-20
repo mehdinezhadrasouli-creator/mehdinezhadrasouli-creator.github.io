@@ -1,1 +1,0 @@
-var e=`/assets/mehdi-primary-editorial-ClXES4LT.jpg`,t=`/assets/mehdi-primary-optimized-BDXkRewB.jpg`;export{e as n,t};
