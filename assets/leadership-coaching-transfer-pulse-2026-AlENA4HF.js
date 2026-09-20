@@ -1,1 +1,0 @@
-import{lt as e}from"./ContactDock-h9f4nope.js";import{t}from"./LeadershipCoachingTransferPulse-kcCRY9H5.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
