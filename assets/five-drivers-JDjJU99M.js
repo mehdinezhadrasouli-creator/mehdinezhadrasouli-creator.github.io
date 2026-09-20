@@ -1,0 +1,1 @@
+import{lt as e}from"./ContactDock-D_IAX1Pg.js";import{t}from"./FiveDriversAssessment-DR4JedSS.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
