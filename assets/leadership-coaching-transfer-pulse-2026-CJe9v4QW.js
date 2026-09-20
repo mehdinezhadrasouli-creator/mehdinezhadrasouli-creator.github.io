@@ -1,0 +1,1 @@
+import{lt as e}from"./ContactDock-CtCftmsf.js";import{t}from"./LeadershipCoachingTransferPulse-8mN049Lh.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
