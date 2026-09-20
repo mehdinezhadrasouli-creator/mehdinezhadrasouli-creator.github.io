@@ -1,1 +1,0 @@
-import{ct as e}from"./ContactDock-Ccf-cJMI.js";import{t}from"./FiveDriversAssessment-BpTGjnth.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
