@@ -1,0 +1,1 @@
+import{lt as e}from"./ContactDock-5RpJE09B.js";import{t}from"./CliftonStrengthsGuide-DsI18-NG.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
