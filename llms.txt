@@ -10,14 +10,14 @@ This file is factual context for answer engines and other systems that choose to
 - Alternate names: مهدی نژادرسولی; Mehdi Nejad Rasouli
 - Roles: Executive Coach; Organizational Coach; Senior HR Leader
 - Credential: ICF Professional Certified Coach (PCC), International Coaching Federation
-- Experience: 700+ professional coaching hours; 15+ years in HR and people leadership
+- Experience: 700+ professional coaching hours; 17 years in HR and people leadership
 - Languages: Persian and English
 - Location: Tehran and remote
 - Focus: executive coaching, organizational coaching, professional coaching, leadership transitions, leadership development, strategic human resources, organizational effectiveness, succession planning
 
 ## Short biography
 
-Mehdi’s practice grew from more than 15 years in HR and people leadership across industrial, FMCG, digital and financial-services environments, then deepened through professional coaching. The work holds both the individual conversation and the role, system and relationships around it. Coaching, advisory and facilitation are named as distinct modes rather than mixed.
+Mehdi’s practice grew from 17 years in HR and people leadership across industrial, FMCG, digital and financial-services environments, then deepened through professional coaching. The work holds both the individual conversation and the role, system and relationships around it. Coaching, advisory and facilitation are named as distinct modes rather than mixed.
 
 ## Services
 
@@ -59,7 +59,33 @@ Persian:
 - https://mehdinejadrasouli.com/fa/about/
 - https://mehdinejadrasouli.com/fa/start/
 
-Current Thinking essays cover how to choose an executive coach, client ownership of direction in coaching, agency when the system will not change, organizational coaching contracts, and succession work before resignation. An older AI note remains at its historical URL but is not part of the public library.
+Current Thinking is organized around four evidence-led topic clusters:
+
+### Organizational coaching
+- Readiness: https://mehdinejadrasouli.com/thinking/when-not-to-start-organizational-coaching/
+- Direct manager role: https://mehdinejadrasouli.com/thinking/manager-role-organizational-coaching/
+- Measuring impact: https://mehdinejadrasouli.com/thinking/measuring-organizational-coaching-impact/
+- System diagnosis before coaching: https://mehdinejadrasouli.com/thinking/before-coaching-leader-check-system/
+- Contracting and confidentiality: https://mehdinejadrasouli.com/thinking/individual-coaching-is-not-organizational-coaching/
+
+### Executive coaching and leadership
+- Pressure after promotion: https://mehdinejadrasouli.com/thinking/after-promotion-pressure-leadership-transition/
+- Promotion and self-worth: https://mehdinejadrasouli.com/thinking/when-promotion-becomes-proof-of-worth/
+- Difficult manager relationships: https://mehdinejadrasouli.com/thinking/when-your-manager-is-the-problem/
+- Choosing an executive coach: https://mehdinejadrasouli.com/thinking/how-to-choose-an-executive-coach/
+- Difficult conversations: https://mehdinejadrasouli.com/thinking/why-difficult-conversations-get-delayed/
+- Client direction and coach process: https://mehdinejadrasouli.com/thinking/client-owns-direction-coach-stewards-process/
+- Control and influence when systems do not change: https://mehdinejadrasouli.com/thinking/people-questions-are-rarely-only-people-questions/
+
+### HR and organization
+- Succession planning before resignation: https://mehdinejadrasouli.com/thinking/succession-starts-before-resignation/
+
+### Human judgment and AI
+- Better context produces more useful AI: https://mehdinejadrasouli.com/thinking/better-context-produces-more-useful-ai/
+
+Persian versions use the same slugs under https://mehdinejadrasouli.com/fa/thinking/.
+
+Each essay exposes a concise visible summary, an evidence note, research sources when used, explicit topic metadata and links to related reading. Practitioner observations and external research should be treated as distinct evidence types.
 
 ## Frequently asked questions
 

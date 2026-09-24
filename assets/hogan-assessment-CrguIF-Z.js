@@ -1,1 +1,0 @@
-import{ut as e}from"./ContactDock-BAyLkEM0.js";import{t}from"./HoganAssessmentGuide-B6zscvbX.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};

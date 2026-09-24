@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "generatedAt": "2026-09-24T09:31:49.751Z",
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-24T16:19:44.658Z",
   "assets": [
     {
       "id": "en:when-not-to-start-organizational-coaching",
@@ -9,10 +9,24 @@
       "path": "/thinking/when-not-to-start-organizational-coaching",
       "title": "When Is It Better Not to Start Organizational Coaching?",
       "description": "Sometimes the issue is not coaching quality; it is whether the conditions are ready",
+      "inBrief": "Delay organizational coaching when the issue, expected change, coachee ownership, decision authority or confidentiality boundaries are still unclear. Clarify those conditions first so coaching starts with a workable contract rather than unresolved ambiguity.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching in Organizations",
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "This article draws on my practical experience with managerial issues and organizational coaching programs, interpreted alongside professional standards and independent research. The readiness questions are a practical diagnostic lens, not a validated predictive model.",
+      "topics": [
+        "Organizational coaching",
+        "Coaching readiness",
+        "Coaching agreements"
+      ],
+      "searchTerms": [
+        "organizational coaching readiness",
+        "when not to start organizational coaching",
+        "coaching agreement",
+        "coachee ownership",
+        "coaching confidentiality"
+      ],
       "status": "published"
     },
     {
@@ -22,10 +36,24 @@
       "path": "/thinking/manager-role-organizational-coaching",
       "title": "What Role Should the Direct Manager Play in Organizational Coaching?",
       "description": "Support the change without entering the confidential coaching conversation",
+      "inBrief": "The direct manager should clarify the expected change, create room to practise it and give feedback on observable behaviour. They should not ask for session content or turn organizational coaching into a reporting channel.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching in Organizations",
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "This article draws on my practical experience implementing organizational coaching and on independent research about executive coaching, feedback and the work environment. The evidence does not support a simple claim that a particular level of manager involvement causes a particular coaching outcome. The narrower claim is that a direct manager can help transfer change from the coaching conversation into real work, provided there is a clear boundary between supporting observable behaviour and entering confidential session content. No client, manager or organization is identifiable.",
+      "topics": [
+        "Organizational coaching",
+        "Manager feedback",
+        "Coaching confidentiality"
+      ],
+      "searchTerms": [
+        "manager role in organizational coaching",
+        "organizational coaching",
+        "manager feedback",
+        "coaching confidentiality",
+        "behaviour change"
+      ],
       "status": "published"
     },
     {
@@ -35,10 +63,24 @@
       "path": "/thinking/measuring-organizational-coaching-impact",
       "title": "How Do We Know Organizational Coaching Actually Worked?",
       "description": "A good session is not the same as evidence of impact",
+      "inBrief": "Measure organizational coaching by defining one or two observable changes, who can see them and when they will be reviewed. A useful session is not the same as evidence that behaviour changed at work.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching in Organizations",
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "This article rests on two evidence layers. The first is my practical experience implementing an organizational coaching program whose architecture already included goals, observable behaviours, manager input, a midpoint review and a final review. That is experience working within the architecture, not a claim of proprietary authorship. The second is independent research on workplace coaching effectiveness and leaders’ reports of behavioural change after coaching. These sources do not allow the claim that coaching alone produced every business outcome. The narrower, defensible claim is that organizational coaching impact is better measured when the expected change is connected from the start to observable behaviour, an appropriate witness and a defined review point. No client, manager or organization is identifiable.",
+      "topics": [
+        "Organizational coaching",
+        "Coaching effectiveness",
+        "Behaviour change"
+      ],
+      "searchTerms": [
+        "organizational coaching effectiveness",
+        "measuring coaching impact",
+        "observable behaviour",
+        "coaching outcomes",
+        "coaching evaluation"
+      ],
       "status": "published"
     },
     {
@@ -48,10 +90,24 @@
       "path": "/thinking/after-promotion-pressure-leadership-transition",
       "title": "Why Does Pressure Increase After a Promotion?",
       "description": "Sometimes the new role moves faster than our sense of who we are in it",
+      "inBrief": "Pressure often rises after promotion when a leader keeps solving work through the habits that earned the promotion. The transition requires redefining success from personal execution toward results through other people.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Practice + leader role-transition research + promotions research",
       "sourceNote": "The core of this article comes from recurring patterns observed in professional coaching experience: the shift from specialist to leader, difficulty with delegation, control versus trust, the psychological weight of responsibility, and the gap between a new title and an older professional identity. These are qualitative, aggregated observations from coaching practice, not a representative research sample of managers. They are used to form observations and questions, not statistical claims about all managers. Independent research is cited separately to test and contextualize these observations. Examples and patterns are written without identifying client detail.",
+      "topics": [
+        "Leadership transition",
+        "Promotion",
+        "Executive coaching"
+      ],
+      "searchTerms": [
+        "leadership transition",
+        "pressure after promotion",
+        "new manager transition",
+        "delegation",
+        "leadership identity"
+      ],
       "status": "published"
     },
     {
@@ -61,10 +117,24 @@
       "path": "/thinking/before-coaching-leader-check-system",
       "title": "Before Coaching the Leader, Check the System",
       "description": "Not every leadership problem is an individual problem",
+      "inBrief": "Before labelling a leader as indecisive, unconfident or poor at delegation, examine authority, work design and the behaviour the system rewards. Coaching is stronger when individual agency and systemic constraints are diagnosed together.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching in Organizations",
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "This article is grounded in professional experience across HR leadership, coaching, and the design of development interventions. These are qualitative professional observations, not a statistical study or a scientifically validated model. Independent research on context and work design supports the broader principle that behavior should also be understood in relation to situational constraints, autonomy, role demands, and the design of work. The limited claim of this article is that before choosing an individual intervention, examining systemic factors can improve the definition of the problem. No client, manager or organization is identifiable.",
+      "topics": [
+        "Organizational coaching",
+        "Work design",
+        "Leadership development"
+      ],
+      "searchTerms": [
+        "systemic coaching",
+        "organizational coaching",
+        "leadership development",
+        "work design",
+        "systemic factors"
+      ],
       "status": "published"
     },
     {
@@ -74,10 +144,24 @@
       "path": "/thinking/when-promotion-becomes-proof-of-worth",
       "title": "Promotion Is Not Always Just Promotion: When the Next Role Becomes a Test of Self-Worth",
       "description": "Sometimes the question behind “How do I get promoted?” is a different one",
+      "inBrief": "Promotion can be a legitimate career goal and still become emotionally loaded when it is used as proof of worth. Separating self-worth, readiness and opportunity makes the career question more precise.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Practice + contingent self-worth research + promotions research",
       "sourceNote": "This article draws on more than 700 hours of professional coaching experience and a review of recurring patterns in a subset of sessions. Examples and patterns are written without identifying client detail. The pattern of promotion becoming entangled with self-worth is a recurring observation from this coaching practice, not a scientific model and not a claim about everyone seeking promotion. The value / readiness / opportunity lens is a practical framing from this work, not a validated research model. Contingent self-worth research and promotions research are cited as external context, not as proof of any client result.",
+      "topics": [
+        "Promotion",
+        "Self-worth",
+        "Executive coaching"
+      ],
+      "searchTerms": [
+        "promotion and self-worth",
+        "career advancement",
+        "promotion readiness",
+        "executive coaching",
+        "leadership identity"
+      ],
       "status": "published"
     },
     {
@@ -87,10 +171,24 @@
       "path": "/thinking/when-your-manager-is-the-problem",
       "title": "When Your Manager Is the Problem: What Part Is Still Yours to Influence?",
       "description": "Seeing your part is not the same as blaming yourself",
+      "inBrief": "When the manager is genuinely part of the problem, focus on what remains within your influence: clarity, boundaries, requests, assumptions and choices. Seeing your part does not excuse the manager or erase power differences.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Practice + LMX research + managing-up literature + ICF guidance",
       "sourceNote": "This article draws on more than 700 hours of professional coaching experience and a review of recurring patterns in a subset of sessions. Examples and patterns are written without identifying client detail. “Manager as a Mirror” is a recurring observation from this coaching practice, not a scientific model or psychological diagnosis. Leader–Member Exchange meta-analyses and Harvard Business Review’s Managing Your Boss are cited as external context on relationship quality and clarifying mutual expectations. ICF Core Competencies and PCC assessment criteria inform the coaching stance. Formal power between manager and employee is not assumed to be equal.",
+      "topics": [
+        "Manager relationship",
+        "Managing up",
+        "Executive coaching"
+      ],
+      "searchTerms": [
+        "difficult manager",
+        "managing up",
+        "manager relationship",
+        "executive coaching",
+        "workplace boundaries"
+      ],
       "status": "published"
     },
     {
@@ -100,10 +198,24 @@
       "path": "/thinking/how-to-choose-an-executive-coach",
       "title": "How to Choose the Right Executive Coach",
       "description": "Seven things worth checking before you start working together",
+      "inBrief": "Choose an executive coach by checking recognized credentials, fit, confidentiality, professional boundaries and whether the conversation helps you think more clearly while keeping ownership of your decisions.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Practice + ICF guidance",
       "sourceNote": "Drawn from professional coaching practice and publicly available ICF guidance on credentials, coach selection and ethics. Session patterns are described without client stories, quotations, outcomes or identifying detail. This is practical guidance for choosing a coach, not a claim that any single credential or conversation guarantees fit.",
+      "topics": [
+        "Executive coaching",
+        "ICF coaching",
+        "Coaching relationship"
+      ],
+      "searchTerms": [
+        "how to choose an executive coach",
+        "executive coach",
+        "ICF coach",
+        "PCC coach",
+        "coaching confidentiality"
+      ],
       "status": "published"
     },
     {
@@ -113,10 +225,24 @@
       "path": "/thinking/why-difficult-conversations-get-delayed",
       "title": "Why We Delay Difficult Conversations",
       "description": "When the real issue is not only what to say",
+      "inBrief": "Managers often delay difficult conversations not because they lack words, but because relationship risk, uncertainty or avoidance remains unresolved. Before scripting the conversation, identify what has kept it from happening.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Practice + ICF guidance + management literature",
       "sourceNote": "Drawn from recurring patterns in executive coaching sessions with managers, described without client stories, quotations, outcomes or identifying detail. ICF Core Competencies and PCC assessment criteria inform the coaching stance. Harvard Business Review essays on executive conflict avoidance and when to skip a difficult conversation are cited as external context, not as proof of any client result. Clarity, respect and accountability are a practice framing from work with managers, not a validated research model.",
+      "topics": [
+        "Difficult conversations",
+        "Leadership communication",
+        "Executive coaching"
+      ],
+      "searchTerms": [
+        "difficult conversations",
+        "manager feedback",
+        "leadership communication",
+        "conflict avoidance",
+        "executive coaching"
+      ],
       "status": "published"
     },
     {
@@ -126,10 +252,24 @@
       "path": "/thinking/client-owns-direction-coach-stewards-process",
       "title": "The client chooses the direction; the coach helps keep it visible",
       "description": "Client-led coaching does not mean leaving the process unattended. The client owns the topic, meaning and decisions; the coach helps hold the agreement, focus and changes of direction in partnership.",
+      "inBrief": "Client-led coaching means the client owns the topic, meaning and decisions while coach and client jointly steward the agreement, focus, time and changes of direction. Process stewardship should increase client ownership, not replace it.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching & Leadership",
       "format": "Reflective practice essay",
       "evidence": "Reflective practice + ICF standard",
       "sourceNote": "This essay grew from a professional review of several coaching sessions and a comparison with the 2025 ICF Core Competencies. Session evidence was used only for coach learning and reflection; no client story, quotation, result or identifying detail is published. The distinction proposed here is a working principle under examination, not a validated model or a claim of effectiveness.",
+      "topics": [
+        "Client-led coaching",
+        "Coaching process",
+        "ICF coaching"
+      ],
+      "searchTerms": [
+        "client-led coaching",
+        "ICF coaching",
+        "coaching process",
+        "client autonomy",
+        "PCC coaching"
+      ],
       "status": "published"
     },
     {
@@ -139,10 +279,24 @@
       "path": "/thinking/people-questions-are-rarely-only-people-questions",
       "title": "When you cannot change the system, where can you start?",
       "description": "Not everything is under our control. Coaching can help separate what is within a leader’s control from what they can influence, and turn a large problem into choices and actions that are still available.",
+      "inBrief": "When the system will not change, start by separating what you control, what you can influence and what you may need to accept. Coaching can turn a large external problem into a specific next choice.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Coaching practice + organizational experience",
       "sourceNote": "This article draws on more than 700 hours of professional coaching experience, a review of recurring patterns in a subset of sessions, and professional HR experience. De-identified recurring themes include challenges with a manager above, difficult conversations, delegation and the gap between decision and action. No client, manager or organization is identifiable. The observations are practice-based, not a scientific model or a claim about every client.",
+      "topics": [
+        "Agency at work",
+        "Organizational systems",
+        "Executive coaching"
+      ],
+      "searchTerms": [
+        "control and influence",
+        "executive coaching",
+        "agency at work",
+        "organizational systems",
+        "leadership choices"
+      ],
       "status": "published"
     },
     {
@@ -152,10 +306,24 @@
       "path": "/thinking/individual-coaching-is-not-organizational-coaching",
       "title": "Organizational coaching starts with the contract, not the first session",
       "description": "When an organization sponsors coaching, the challenge is not choosing between confidentiality and accountability. It is designing an agreement that protects the client's thinking while making the purpose and observable outcomes clear.",
+      "inBrief": "Organizational coaching needs a clear agreement before individual sessions begin: purpose, observable outcomes, roles, confidentiality and review points. The sponsor can know what change is being pursued without receiving session content.",
+      "updatedAt": "2026-09-24",
       "category": "Coaching in Organizations",
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience, practical experience implementing organizational coaching programs, the ICF Code of Ethics and 2026 research on 686 executives across more than 300 organizations. No client, manager or organization is identifiable; the program architecture described reflects implementation experience, not proprietary design ownership or a completed outcome study.",
+      "topics": [
+        "Organizational coaching",
+        "Coaching agreement",
+        "Confidentiality"
+      ],
+      "searchTerms": [
+        "organizational coaching contract",
+        "coaching confidentiality",
+        "sponsor agreement",
+        "organizational coaching",
+        "coaching outcomes"
+      ],
       "status": "published"
     },
     {
@@ -165,10 +333,24 @@
       "path": "/thinking/succession-starts-before-resignation",
       "title": "Succession planning starts before resignation, not after",
       "description": "A counteroffer after resignation is often too late. Succession work begins when people can still see a future inside the organization—and when internal mobility is treated as a success, not a loss.",
+      "inBrief": "Succession planning starts before a vacancy, when growth criteria are clear, internal talent is visible and future roles are discussed while people can still see a future inside the organization.",
+      "updatedAt": "2026-09-24",
       "category": "HR & Organization",
       "format": "Practice essay",
       "evidence": "Practice + research",
       "sourceNote": "Based on professional HR experience. No employer, employee, manager or coaching case is identified. Research sources are Gallup, McKinsey & Company and SHRM; full references and links appear in the Research sources section.",
+      "topics": [
+        "Succession planning",
+        "Talent management",
+        "Internal mobility"
+      ],
+      "searchTerms": [
+        "succession planning",
+        "internal mobility",
+        "talent management",
+        "leadership pipeline",
+        "employee retention"
+      ],
       "status": "published"
     },
     {
@@ -178,10 +360,24 @@
       "path": "/thinking/better-context-produces-more-useful-ai",
       "title": "Better context produces more useful AI",
       "description": "AI becomes more valuable when it extends grounded experience and traceable knowledge instead of manufacturing expertise from a thin prompt.",
+      "inBrief": "AI becomes more useful when it has traceable context from real work, not just a clever prompt. Start with primary evidence, form the insight, then use research and AI to test and extend it.",
+      "updatedAt": "2026-09-24",
       "category": "Human & AI",
       "format": "Analytical note",
-      "evidence": "Source-grounded reflection",
-      "sourceNote": "Developed from Mehdi's reflection on Colin Scotland's Coaching.com presentation about using AI to amplify a coaching business, combined with evidence-first knowledge principles.",
+      "evidence": "Implementation experience + source-grounded reflection",
+      "sourceNote": "This piece draws primarily on my practical experience building and using a traceable professional knowledge base for content creation, alongside reflection on Colin Scotland's Coaching.com presentation. The implementation experience is the primary source of the article's insights; Scotland's presentation is used as external context and a thinking prompt.",
+      "topics": [
+        "Artificial intelligence",
+        "Knowledge management",
+        "Evidence-based content"
+      ],
+      "searchTerms": [
+        "AI context",
+        "AI for coaches",
+        "evidence-based content",
+        "knowledge management",
+        "AI content quality"
+      ],
       "status": "published"
     },
     {
@@ -191,10 +387,24 @@
       "path": "/fa/thinking/when-not-to-start-organizational-coaching",
       "title": "چه زمانی بهتر است کوچینگ سازمانی را شروع نکنیم؟",
       "description": "گاهی مسئله، کیفیت کوچینگ نیست؛ زمان و شرایط شروع آن است",
+      "inBrief": "وقتی مسئله، تغییر مورد انتظار، مالکیت مراجع، اختیار تصمیم یا مرزهای محرمانگی هنوز روشن نیست، بهتر است شروع کوچینگ سازمانی را عقب بیندازیم. اول این شرایط را روشن کنیم تا کوچینگ با یک قرارداد قابل‌اجرا شروع شود.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ در سازمان",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
       "sourceNote": "این مقاله بر تجربه عملی من در مواجهه با مسائل مدیریتی و اجرای برنامه‌های کوچینگ سازمانی، در کنار استانداردهای حرفه‌ای و پژوهش‌های مستقل تکیه دارد. سؤال‌های آمادگی، یک نگاه تشخیصی عملی‌اند، نه مدل علمی اعتبارسنجی‌شده برای پیش‌بینی موفقیت.",
+      "topics": [
+        "کوچینگ سازمانی",
+        "آمادگی برای کوچینگ",
+        "قرارداد کوچینگ"
+      ],
+      "searchTerms": [
+        "آمادگی برای کوچینگ سازمانی",
+        "چه زمانی کوچینگ سازمانی را شروع نکنیم",
+        "قرارداد کوچینگ",
+        "مالکیت مراجع",
+        "محرمانگی کوچینگ"
+      ],
       "status": "published"
     },
     {
@@ -204,10 +414,24 @@
       "path": "/fa/thinking/manager-role-organizational-coaching",
       "title": "مدیر مستقیم در کوچینگ سازمانی چه نقشی دارد؟",
       "description": "حمایت از تغییر، بدون ورود به محتوای محرمانه جلسات",
+      "inBrief": "مدیر مستقیم باید تغییر مورد انتظار را روشن کند، برای تمرین رفتار تازه فضا بسازد و درباره رفتار قابل‌مشاهده بازخورد بدهد. اما نباید محتوای جلسه را بخواهد یا کوچینگ سازمانی را به کانال گزارش‌دهی تبدیل کند.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ در سازمان",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
       "sourceNote": "این مقاله بر تجربه عملی من در اجرای کوچینگ سازمانی و پژوهش‌های مستقل درباره کوچینگ مدیران، بازخورد و محیط کاری تکیه دارد. این شواهد اجازه نمی‌دهند بگوییم میزان مشخصی از مشارکت مدیر مستقیم حتماً باعث نتیجه مشخصی از کوچینگ می‌شود. ادعای محدودتر و قابل‌دفاع این مقاله این است: مدیر مستقیم می‌تواند به انتقال تغییر از جلسه کوچینگ به محیط واقعی کار کمک کند؛ به شرط آنکه میان حمایت از رفتار و ورود به محتوای محرمانه جلسات مرز روشنی وجود داشته باشد. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست.",
+      "topics": [
+        "کوچینگ سازمانی",
+        "بازخورد مدیر",
+        "محرمانگی کوچینگ"
+      ],
+      "searchTerms": [
+        "نقش مدیر در کوچینگ سازمانی",
+        "کوچینگ سازمانی",
+        "بازخورد مدیر",
+        "محرمانگی کوچینگ",
+        "تغییر رفتار"
+      ],
       "status": "published"
     },
     {
@@ -217,10 +441,24 @@
       "path": "/fa/thinking/measuring-organizational-coaching-impact",
       "title": "از کجا بفهمیم کوچینگ سازمانی واقعاً اثر داشته است؟",
       "description": "رضایت از جلسه، همان اثر کوچینگ نیست",
+      "inBrief": "برای سنجش اثر کوچینگ سازمانی، یک یا دو تغییر قابل‌مشاهده، کسی که می‌تواند آن را ببیند و زمان بازبینی را از ابتدا مشخص کنیم. رضایت از جلسه به‌تنهایی شواهد تغییر رفتار در کار نیست.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ در سازمان",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
       "sourceNote": "این مقاله بر دو لایه شواهد بنا شده است. لایه اول، تجربه عملی من در اجرای یک برنامه کوچینگ سازمانی است که در معماری آن، هدف‌ها، رفتارهای قابل‌مشاهده، نظر مدیر، بازبینی میانی و بازبینی پایانی از ابتدا دیده شده‌اند؛ این تجربه اجرای برنامه است، نه ادعای تألیف اختصاصی آن معماری. لایه دوم، پژوهش‌های مستقل درباره اثربخشی کوچینگ در محیط کار و گزارش مدیران از تغییرهای رفتاری پس از کوچینگ است. این شواهد اجازه نمی‌دهند بگوییم کوچینگ به‌تنهایی هر نتیجه کسب‌وکاری را ایجاد کرده است. ادعای محدودتر و قابل‌دفاع این مقاله این است: اثر کوچینگ سازمانی بهتر سنجیده می‌شود وقتی از ابتدا تغییر مورد انتظار را به رفتار قابل‌مشاهده، شاهد مناسب و زمان بازبینی مشخص وصل کنیم. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست.",
+      "topics": [
+        "کوچینگ سازمانی",
+        "اثربخشی کوچینگ",
+        "تغییر رفتار"
+      ],
+      "searchTerms": [
+        "سنجش اثر کوچینگ سازمانی",
+        "اثربخشی کوچینگ سازمانی",
+        "رفتار قابل مشاهده",
+        "نتایج کوچینگ",
+        "ارزیابی کوچینگ"
+      ],
       "status": "published"
     },
     {
@@ -230,10 +468,24 @@
       "path": "/fa/thinking/after-promotion-pressure-leadership-transition",
       "title": "چرا بعد از ارتقا، فشار بیشتر می‌شود؟",
       "description": "گاهی نقش جدید جلوتر از تصویری است که هنوز از خودمان داریم",
+      "inBrief": "بعد از ارتقا، فشار می‌تواند بیشتر شود وقتی مدیر همچنان با عادت‌هایی کار می‌کند که او را به نقش جدید رسانده‌اند. گذار رهبری یعنی تعریف موفقیت از انجام شخصی کار به نتیجه‌گرفتن از طریق دیگران تغییر کند.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش انتقال به نقش رهبری + پژوهش ارتقا",
       "sourceNote": "هسته این مقاله از مشاهده چند الگوی تکرارشونده در تجربه حرفه‌ای کوچینگ نویسنده آمده است: انتقال از متخصص به رهبر، سختی در واگذاری، کنترل در برابر اعتماد، وزن روانی مسئولیت و فاصله میان عنوان جدید و هویت حرفه‌ای قدیمی. این‌ها شواهد کیفی و تجمیعی از تجربه کوچینگ‌اند، نه یک نمونه پژوهشی نماینده جامعه مدیران. بنابراین از آن‌ها برای ساختن مشاهده و سؤال استفاده شده، نه برای ادعای آماری درباره همه مدیران. پژوهش‌های مستقل نیز جداگانه برای آزمون و قرار دادن این مشاهدات در زمینه بیرونی استفاده شده‌اند. مثال‌ها و الگوها بدون اطلاعات قابل‌شناسایی از مراجعان نوشته شده‌اند.",
+      "topics": [
+        "گذار رهبری",
+        "ارتقا",
+        "کوچینگ اجرایی"
+      ],
+      "searchTerms": [
+        "گذار رهبری",
+        "فشار بعد از ارتقا",
+        "مدیر تازه منصوب شده",
+        "تفویض",
+        "هویت رهبری"
+      ],
       "status": "published"
     },
     {
@@ -243,10 +495,24 @@
       "path": "/fa/thinking/before-coaching-leader-check-system",
       "title": "قبل از کوچینگ مدیر، سیستم را هم بررسی کنید",
       "description": "همه مسئله‌های رهبری، مسئله فردی نیستند",
+      "inBrief": "قبل از اینکه مسئله مدیر را قاطعیت، اعتمادبه‌نفس یا تفویض بدانیم، باید اختیار، طراحی کار و رفتارهایی را که سیستم تقویت می‌کند بررسی کنیم. کوچینگ وقتی دقیق‌تر می‌شود که عاملیت فرد و محدودیت سیستم را هم‌زمان ببینیم.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ در سازمان",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
       "sourceNote": "هسته این مقاله از تجربه حرفه‌ای من در رهبری منابع انسانی، کوچینگ و طراحی مداخلات توسعه‌ای شکل گرفته است. این مشاهدات کیفی و حرفه‌ای‌اند و یک مطالعه آماری یا مدل علمی اعتبارسنجی‌شده نیستند. پژوهش مستقل درباره زمینه (context) و طراحی شغل (work design) از اصل گسترده‌تری حمایت می‌کند: رفتار را باید در زمینه، اختیار و طراحی کار هم فهمید. ادعای محدود این مقاله این است که پیش از انتخاب یک مداخله فردمحور، بررسی عوامل سیستمی می‌تواند تعریف مسئله را دقیق‌تر کند. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست.",
+      "topics": [
+        "کوچینگ سازمانی",
+        "طراحی کار",
+        "توسعه رهبری"
+      ],
+      "searchTerms": [
+        "کوچینگ سیستمی",
+        "کوچینگ سازمانی",
+        "توسعه رهبری",
+        "طراحی کار",
+        "عوامل سیستمی"
+      ],
       "status": "published"
     },
     {
@@ -256,10 +522,24 @@
       "path": "/fa/thinking/when-promotion-becomes-proof-of-worth",
       "title": "ارتقا همیشه فقط ارتقا نیست",
       "description": "وقتی جایگاه بالاتر تبدیل به آزمون ارزشمندی می‌شود",
+      "inBrief": "ارتقا می‌تواند یک هدف شغلی کاملاً واقعی باشد و در عین حال وقتی به اثبات ارزشمندی وصل می‌شود، بار روانی بیشتری پیدا کند. جداکردن ارزشمندی، آمادگی و فرصت، سؤال حرفه‌ای را دقیق‌تر می‌کند.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش ارزشمندی مشروط + پژوهش ارتقا",
       "sourceNote": "این مقاله از تجربه بیش از ۷۰۰ ساعت کوچینگ حرفه‌ای نویسنده و مرور الگوهای تکرارشونده در بخشی از جلسات شکل گرفته است. مثال‌ها و الگوها بدون اطلاعات قابل‌شناسایی از مراجعان نوشته شده‌اند. الگوی اتصال ارتقا به ارزشمندی، مشاهده‌ای تکرارشونده از تجربه کوچینگ نویسنده است؛ نه یک مدل علمی و نه تعمیمی به همه افرادی که دنبال ارتقا هستند. چارچوب ارزشمندی، آمادگی و فرصت یک قاب‌بندی عملی از تجربه نویسنده است، نه یک مدل پژوهشی اعتبارسنجی‌شده. مفهوم ارزشمندی مشروط و پژوهش ارتقا و اصل پیتر به‌عنوان زمینه بیرونی آمده‌اند، نه به‌عنوان اثبات نتیجه مراجع.",
+      "topics": [
+        "ارتقا",
+        "ارزشمندی",
+        "کوچینگ اجرایی"
+      ],
+      "searchTerms": [
+        "ارتقا و ارزشمندی",
+        "پیشرفت شغلی",
+        "آمادگی برای ارتقا",
+        "کوچینگ اجرایی",
+        "هویت حرفه‌ای"
+      ],
       "status": "published"
     },
     {
@@ -269,10 +549,24 @@
       "path": "/fa/thinking/when-your-manager-is-the-problem",
       "title": "وقتی مدیر مسئله است، سهم خودمان را از کجا ببینیم؟",
       "description": "دیدن سهم خودمان، به‌معنای مقصر دانستن خودمان نیست",
+      "inBrief": "وقتی مدیر واقعاً بخشی از مسئله است، می‌توان روی چیزی تمرکز کرد که هنوز در حیطه اثرگذاری ماست: وضوح، مرزها، درخواست‌ها، فرض‌ها و انتخاب‌ها. دیدن سهم خودمان، رفتار مدیر یا نابرابری قدرت را توجیه نمی‌کند.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش رابطه مدیر و کارمند + ادبیات مدیریت رابطه با مدیر + راهنمای فدراسیون بین‌المللی کوچینگ",
       "sourceNote": "این مقاله از تجربه بیش از ۷۰۰ ساعت کوچینگ حرفه‌ای نویسنده و مرور الگوهای تکرارشونده در بخشی از جلسات شکل گرفته است. مثال‌ها و الگوها بدون اطلاعات قابل‌شناسایی از مراجعان نوشته شده‌اند. «مدیر به‌عنوان آینه» مشاهده‌ای تکرارشونده از تجربه کوچینگ نویسنده است، نه یک مدل علمی یا تشخیص روان‌شناختی. فراتحلیل‌های مربوط به کیفیت رابطه مدیر و کارمند و مقاله «مدیریت رابطه با مدیر» از هاروارد بیزینس ریویو به‌عنوان زمینه پژوهشی و حرفه‌ای استفاده شده‌اند. شایستگی‌های اصلی کوچینگ و معیارهای ارزیابی سطح PCC از فدراسیون بین‌المللی کوچینگ نیز موضع کوچینگ این مقاله را شکل می‌دهند. برابری قدرت رسمی میان مدیر و فرد فرض نشده است.",
+      "topics": [
+        "رابطه با مدیر",
+        "مدیریت رابطه با مدیر",
+        "کوچینگ اجرایی"
+      ],
+      "searchTerms": [
+        "مدیر دشوار",
+        "مدیریت رابطه با مدیر",
+        "رابطه با مدیر",
+        "کوچینگ اجرایی",
+        "مرزبندی در کار"
+      ],
       "status": "published"
     },
     {
@@ -282,10 +576,24 @@
       "path": "/fa/thinking/how-to-choose-an-executive-coach",
       "title": "چطور یک کوچ اجرایی مناسب انتخاب کنیم؟",
       "description": "۷ چیزی که قبل از شروع همکاری بهتر است بررسی کنید",
+      "inBrief": "برای انتخاب کوچ اجرایی، مدرک معتبر، تناسب حرفه‌ای، محرمانگی، مرزهای کار و کیفیت خود گفت‌وگو را بررسی کنید. رابطه خوب باید کمک کند روشن‌تر فکر کنید و همچنان مالک تصمیم‌های خودتان بمانید.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + راهنمای ICF",
       "sourceNote": "این مطلب بر پایه تجربه کوچینگ حرفه‌ای و راهنماهای عمومی ICF درباره مدرک، انتخاب کوچ و اصول اخلاقی نوشته شده است. الگوهای جلسات بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده‌اند. این متن راهنمای عملی برای انتخاب کوچ است، نه ادعای اینکه یک مدرک یا یک گفت‌وگو به‌تنهایی تناسب را تضمین می‌کند.",
+      "topics": [
+        "کوچینگ اجرایی",
+        "کوچینگ ICF",
+        "رابطه کوچینگ"
+      ],
+      "searchTerms": [
+        "انتخاب کوچ اجرایی",
+        "کوچ اجرایی",
+        "کوچ ICF",
+        "کوچ PCC",
+        "محرمانگی کوچینگ"
+      ],
       "status": "published"
     },
     {
@@ -295,10 +603,24 @@
       "path": "/fa/thinking/why-difficult-conversations-get-delayed",
       "title": "چرا گفت‌وگوهای دشوار را عقب می‌اندازیم؟",
       "description": "وقتی مسئله فقط این نیست که «چه بگویم؟»",
+      "inBrief": "مدیران همیشه به‌خاطر ندانستن جمله مناسب گفت‌وگوی دشوار را عقب نمی‌اندازند. گاهی نگرانی درباره رابطه، ابهام یا اجتناب حل‌نشده است؛ قبل از نوشتن متن گفت‌وگو، باید دید چه چیزی تا امروز مانع آن شده است.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + راهنمای ICF + ادبیات مدیریت",
       "sourceNote": "این مطلب بر پایه الگوهای تکرارشونده در جلسات کوچینگ اجرایی با مدیران نوشته شده و بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده است. شایستگی‌های اصلی ICF و معیارهای ارزیابی PCC موضع کوچینگ را شکل می‌دهند. مقالات Harvard Business Review درباره اجتناب مدیران باتجربه از تعارض و درباره اینکه چه زمانی می‌توان از گفت‌وگوی دشوار صرف‌نظر کرد، به‌عنوان زمینه بیرونی آمده‌اند، نه به‌عنوان اثبات نتیجه برای مراجعان. شفافیت، احترام و مسئولیت‌پذیری چارچوب فکری برآمده از تجربه کار با مدیران است، نه یک مدل پژوهشی اعتبارسنجی‌شده.",
+      "topics": [
+        "گفت‌وگوی دشوار",
+        "ارتباطات رهبری",
+        "کوچینگ اجرایی"
+      ],
+      "searchTerms": [
+        "گفت‌وگوی دشوار",
+        "بازخورد مدیریتی",
+        "ارتباطات رهبری",
+        "اجتناب از تعارض",
+        "کوچینگ اجرایی"
+      ],
       "status": "published"
     },
     {
@@ -308,10 +630,24 @@
       "path": "/fa/thinking/client-owns-direction-coach-stewards-process",
       "title": "مراجع مسیر را انتخاب می‌کند؛ کوچ کمک می‌کند مسیر گم نشود",
       "description": "مراجع‌محوری به این معنا نیست که کوچ فرایند را رها کند. مراجع مالک موضوع، معنا و تصمیم است؛ کوچ نیز کمک می‌کند قرارداد، تمرکز و تغییر مسیر به‌شکل مشارکتی نگه داشته شوند.",
+      "inBrief": "مراجع‌محوری یعنی موضوع، معنا و تصمیم با مراجع بماند و کوچ و مراجع با هم قرارداد، تمرکز، زمان و تغییر مسیر را نگه دارند. نگه‌داشتن فرایند باید مالکیت مراجع را بیشتر کند، نه اینکه جای آن را بگیرد.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ و رهبری",
       "format": "مقاله خودبازتابی حرفه‌ای",
       "evidence": "خودبازتابی حرفه‌ای + استاندارد ICF",
       "sourceNote": "این مقاله از بازبینی حرفه‌ای چند جلسه کوچینگ و تطبیق آن با شایستگی‌های اصلی ICF در سال ۲۰۲۵ شکل گرفته است. شواهد جلسات فقط برای یادگیری و خودبازتابی کوچ استفاده شده‌اند؛ هیچ روایت، نقل‌قول، نتیجه یا اطلاعات قابل‌شناسایی از مراجعان در متن منتشر نشده است. تمایز مطرح‌شده یک اصل کاری در حال بررسی است، نه مدل اعتبارسنجی‌شده یا ادعای اثربخشی.",
+      "topics": [
+        "کوچینگ مراجع‌محور",
+        "فرایند کوچینگ",
+        "کوچینگ ICF"
+      ],
+      "searchTerms": [
+        "کوچینگ مراجع محور",
+        "کوچینگ ICF",
+        "فرایند کوچینگ",
+        "مالکیت مراجع",
+        "کوچ PCC"
+      ],
       "status": "published"
     },
     {
@@ -321,10 +657,24 @@
       "path": "/fa/thinking/people-questions-are-rarely-only-people-questions",
       "title": "وقتی نمی‌توانی سیستم را عوض کنی، از کجا می‌توانی شروع کنی؟",
       "description": "همه‌چیز در اختیار ما نیست. اما در کوچینگ می‌توانیم میان حیطه اختیار و حیطه اثرگذاری فرق بگذاریم و از بخشی از مسئله شروع کنیم که هنوز امکان انتخاب و اقدام در آن وجود دارد.",
+      "inBrief": "وقتی سیستم تغییر نمی‌کند، می‌توان از تفکیک حیطه اختیار، حیطه اثرگذاری و چیزهایی که باید پذیرفت شروع کرد. کوچینگ کمک می‌کند یک مسئله بزرگ بیرونی به انتخاب بعدی مشخص تبدیل شود.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه کوچینگ + تجربه سازمانی",
       "sourceNote": "این مقاله از تجربه بیش از ۷۰۰ ساعت کوچینگ حرفه‌ای نویسنده، مرور الگوهای تکرارشونده در بخشی از جلسات، و تجربه حرفه‌ای منابع انسانی شکل گرفته است. الگوهای بی‌نام مانند مشکل با مدیر بالادست، گفت‌وگوهای دشوار، تفویض و فاصله میان تصمیم و اقدام بررسی شده‌اند. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست. این مشاهدات، تجربه حرفه‌ای نویسنده‌اند؛ نه یک مدل علمی و نه تعمیمی به همه مراجعان.",
+      "topics": [
+        "عاملیت در کار",
+        "سیستم سازمانی",
+        "کوچینگ اجرایی"
+      ],
+      "searchTerms": [
+        "حیطه اختیار و اثرگذاری",
+        "کوچینگ اجرایی",
+        "عاملیت در کار",
+        "سیستم سازمانی",
+        "انتخاب رهبری"
+      ],
       "status": "published"
     },
     {
@@ -334,10 +684,24 @@
       "path": "/fa/thinking/individual-coaching-is-not-organizational-coaching",
       "title": "کوچینگ سازمانی از قرارداد شروع می‌شود، نه از اولین جلسه",
       "description": "وقتی سازمان حامی کوچینگ است، مسئله انتخاب بین محرمانگی و پاسخ‌گویی نیست. مسئله این است که قراردادی طراحی کنیم که هم فضای امن مراجع را حفظ کند و هم هدف و تغییر قابل‌مشاهده برای سازمان روشن باشد.",
+      "inBrief": "کوچینگ سازمانی پیش از جلسات فردی به یک توافق روشن درباره هدف، نتیجه قابل‌مشاهده، نقش‌ها، محرمانگی و نقاط بازبینی نیاز دارد. حامی می‌تواند بداند چه تغییری دنبال می‌شود، بدون اینکه محتوای جلسه را دریافت کند.",
+      "updatedAt": "2026-09-24",
       "category": "کوچینگ در سازمان",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
       "sourceNote": "این نوشته بر تجربه حرفه‌ای منابع انسانی، تجربه عملی در اجرای برنامه‌های کوچینگ سازمانی، آیین اخلاقی ICF و پژوهش سال ۲۰۲۶ روی ۶۸۶ مدیر در بیش از ۳۰۰ سازمان استوار است. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست و معماری برنامه‌ای که به آن اشاره می‌شود بازتاب تجربه اجراست، نه ادعای مالکیت طراحی اختصاصی یا مطالعه نتیجه تکمیل‌شده.",
+      "topics": [
+        "کوچینگ سازمانی",
+        "قرارداد کوچینگ",
+        "محرمانگی"
+      ],
+      "searchTerms": [
+        "قرارداد کوچینگ سازمانی",
+        "محرمانگی کوچینگ",
+        "توافق با حامی",
+        "کوچینگ سازمانی",
+        "نتایج کوچینگ"
+      ],
       "status": "published"
     },
     {
@@ -347,10 +711,24 @@
       "path": "/fa/thinking/succession-starts-before-resignation",
       "title": "جانشین‌پروری قبل از استعفا شروع می‌شود، نه بعد از آن",
       "description": "پیشنهاد ماندن بعد از استعفا معمولاً دیر است. جانشین‌پروری وقتی شروع می‌شود که فرد هنوز بتواند آینده‌ای داخل سازمان ببیند و جابه‌جایی داخلی موفقیت شمرده شود، نه ازدست‌دادن نیرو.",
+      "inBrief": "جانشین‌پروری قبل از خالی‌شدن یک موقعیت شروع می‌شود؛ وقتی معیارهای رشد روشن‌اند، استعدادهای داخلی دیده می‌شوند و درباره نقش‌های آینده زمانی گفت‌وگو می‌کنیم که فرد هنوز می‌تواند آینده‌ای در سازمان ببیند.",
+      "updatedAt": "2026-09-24",
       "category": "منابع انسانی و سازمان",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش",
       "sourceNote": "این نوشته بر تجربه حرفه‌ای منابع انسانی استوار است. فرد، مدیر، کارفرما یا مورد کوچینگ قابل شناسایی نیست. منابع پژوهشی مقاله Gallup، McKinsey & Company و SHRM هستند و لینک منابع در بخش «منابع پژوهشی» آمده است.",
+      "topics": [
+        "جانشین‌پروری",
+        "مدیریت استعداد",
+        "جابه‌جایی داخلی"
+      ],
+      "searchTerms": [
+        "جانشین‌پروری",
+        "جابه‌جایی داخلی",
+        "مدیریت استعداد",
+        "خط لوله رهبری",
+        "نگهداشت کارکنان"
+      ],
       "status": "published"
     },
     {
@@ -360,10 +738,24 @@
       "path": "/fa/thinking/better-context-produces-more-useful-ai",
       "title": "زمینه بهتر، هوش مصنوعی مفیدتری می‌سازد",
       "description": "هوش مصنوعی زمانی ارزشمندتر می‌شود که تجربه واقعی و دانش قابل ردیابی را گسترش دهد، نه اینکه از یک پرامپت کم‌عمق تخصص بسازد.",
+      "inBrief": "هوش مصنوعی وقتی مفیدتر می‌شود که به زمینه قابل‌ردیابی از کار واقعی دسترسی داشته باشد، نه فقط یک پرامپت هوشمندانه. از شواهد اولیه شروع کنیم، برداشت را بسازیم و بعد از پژوهش و هوش مصنوعی برای آزمون و گسترش آن استفاده کنیم.",
+      "updatedAt": "2026-09-24",
       "category": "انسان و هوش مصنوعی",
       "format": "یادداشت تحلیلی",
-      "evidence": "تأمل مبتنی بر منبع",
+      "evidence": "تجربه عملی + تأمل مبتنی بر منبع",
       "sourceNote": "این نوشته از تجربه عملی من در ساخت و استفاده از یک پایگاه دانش حرفه‌ای برای تولید محتوای قابل‌ردیابی، در کنار تأمل بر ارائه کالین اسکاتلند در Coaching.com شکل گرفته است. تجربه عملی، منبع اصلی insightهای مقاله است و ارائه کالین به‌عنوان زمینه بیرونی و محرک فکری استفاده شده است.",
+      "topics": [
+        "هوش مصنوعی",
+        "مدیریت دانش",
+        "محتوای مبتنی بر شواهد"
+      ],
+      "searchTerms": [
+        "زمینه هوش مصنوعی",
+        "هوش مصنوعی برای کوچ‌ها",
+        "محتوای مبتنی بر شواهد",
+        "مدیریت دانش",
+        "کیفیت محتوای هوش مصنوعی"
+      ],
       "status": "published"
     }
   ]
