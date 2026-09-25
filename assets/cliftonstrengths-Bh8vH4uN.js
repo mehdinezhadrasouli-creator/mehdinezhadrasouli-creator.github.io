@@ -1,0 +1,1 @@
+import{it as e}from"./ContactDock-DQ9325wQ.js";import{t}from"./CliftonStrengthsGuide-Byqln-G3.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};

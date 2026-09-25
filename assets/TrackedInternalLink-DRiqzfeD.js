@@ -1,1 +1,0 @@
-import{i as e,l as t,rt as n}from"./ContactDock-76ND2aTP.js";var r=n();function i({language:n,sourceType:i,source:a,destinationType:o,destination:s,href:c,className:l,children:u}){return(0,r.jsx)(`a`,{href:t(c),className:l,onClick:()=>{try{e({language:n,sourceType:i,source:a,destinationType:o,destination:s})}catch{}},children:u})}export{i as t};
