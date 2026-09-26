@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-26T18:12:35.106Z",
+  "generatedAt": "2026-09-26T20:58:41.923Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -107,6 +107,33 @@
         "coaching process",
         "client autonomy",
         "PCC coaching"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "en:executive-coaching-cost",
+      "language": "en",
+      "slug": "executive-coaching-cost",
+      "path": "/thinking/executive-coaching-cost",
+      "title": "How Much Does Executive Coaching Cost? What Actually Shapes the Fee?",
+      "description": "Executive coaching fees are difficult to compare by hourly rate alone. Scope, cadence, sponsorship, assessments and progress review all affect what an engagement includes.",
+      "inBrief": "Executive coaching cost is not only the price of an hour. A useful comparison looks at the scope of work, number and cadence of sessions, contracting, support and how progress will be reviewed.",
+      "updatedAt": "2026-09-26",
+      "category": "Coaching & Leadership",
+      "format": "Practical guide",
+      "evidence": "Practice + coaching-industry research",
+      "sourceNote": "The core of this article comes from my experience designing and delivering individual and organization-sponsored coaching engagements, including contracting, goals, cadence and progress review. ICF data is used only to show the wide variation in reported coaching fees globally; it is not presented as a recommended rate for Iran or for my own services. No client-specific financial or contractual information is published.",
+      "topics": [
+        "Executive coaching",
+        "Coaching fees",
+        "Executive coaching engagement"
+      ],
+      "searchTerms": [
+        "executive coaching cost",
+        "executive coaching fees",
+        "executive coaching pricing",
+        "cost of executive coaching",
+        "executive coaching rates"
       ],
       "status": "published"
     },
@@ -486,6 +513,34 @@
         "فرایند کوچینگ",
         "مالکیت مراجع",
         "کوچ PCC"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fa:executive-coaching-cost",
+      "language": "fa",
+      "slug": "executive-coaching-cost",
+      "path": "/fa/thinking/executive-coaching-cost",
+      "title": "هزینه کوچینگ اجرایی چقدر است؟ قیمت واقعاً به چه چیزهایی بستگی دارد؟",
+      "description": "برای مقایسه قیمت کوچینگ مدیران، فقط هزینه هر جلسه کافی نیست. دامنه همکاری، تعداد جلسات، سازمانی یا فردی بودن، ارزیابی‌ها و شیوه مرور پیشرفت روی هزینه اثر می‌گذارند.",
+      "inBrief": "هزینه کوچینگ اجرایی فقط قیمت یک ساعت گفت‌وگو نیست. برای مقایسه دو پیشنهاد، باید ببینید دقیقاً چه دامنه‌ای از کار، چه تعداد جلسه، چه سطحی از قرارداد و چه نوع حمایت و مرور پیشرفت داخل آن قرار گرفته است.",
+      "updatedAt": "2026-09-26",
+      "category": "کوچینگ و رهبری",
+      "format": "راهنمای کاربردی",
+      "evidence": "تجربه حرفه‌ای + پژوهش صنعت کوچینگ",
+      "sourceNote": "هسته این مقاله از تجربه من در طراحی و اجرای همکاری‌های کوچینگ فردی و سازمانی، قراردادها، هدف‌گذاری، فاصله جلسات و بازبینی پیشرفت می‌آید. داده ICF فقط برای نشان‌دادن تفاوت گسترده نرخ‌ها در بازار جهانی استفاده شده است و به‌عنوان تعرفه پیشنهادی برای ایران یا برای خدمات من تفسیر نمی‌شود. هیچ اطلاعات مالی یا قراردادی مربوط به مراجع مشخصی در این مقاله منتشر نشده است.",
+      "topics": [
+        "کوچینگ اجرایی",
+        "هزینه کوچینگ",
+        "کوچینگ مدیران"
+      ],
+      "searchTerms": [
+        "هزینه کوچینگ اجرایی",
+        "قیمت کوچینگ مدیران",
+        "هزینه جلسات کوچینگ مدیران",
+        "تعرفه کوچینگ اجرایی",
+        "هزینه کوچ اجرایی",
+        "قیمت کوچ اجرایی"
       ],
       "status": "published"
     },

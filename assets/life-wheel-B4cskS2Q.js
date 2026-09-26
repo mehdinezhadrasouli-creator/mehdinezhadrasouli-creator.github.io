@@ -1,0 +1,1 @@
+import{it as e}from"./ContactDock-DER6uqBR.js";import{t}from"./LifeWheelAssessment-DMWlL7oC.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
