@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-26T20:58:41.923Z",
+  "generatedAt": "2026-09-26T21:09:26.561Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -404,6 +404,33 @@
         "leadership communication",
         "conflict avoidance",
         "executive coaching"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "en:why-managers-struggle-to-delegate",
+      "language": "en",
+      "slug": "why-managers-struggle-to-delegate",
+      "path": "/thinking/why-managers-struggle-to-delegate",
+      "title": "Why Do Managers Struggle to Delegate? When Trust and Control Get Entangled",
+      "description": "Delegation problems are not always skill problems. Managers can get caught in a loop of lower trust, tighter control and repeated follow-up that unintentionally reinforces team dependence.",
+      "inBrief": "Delegation is more than handing off work. If the outcome, decision boundary, review point and acceptable risk are unclear, managers tend to swing between micromanaging and stepping away too far. Start by making explicit what is actually being delegated and what responsibility still stays with the manager.",
+      "updatedAt": "2026-09-27",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "Coaching practice + HR leadership + research",
+      "sourceNote": "The core of this article comes from a longitudinal executive-coaching case and my professional experience in HR leadership, where repeated checking, reduced trust and underused managerial authority appeared together. One case does not establish that every delegation problem follows the same mechanism. The loop described here is therefore a practical diagnostic lens, not a validated scientific model. Independent research on trust, delegation and felt trust is used to test and constrain the argument. No client, manager or organization is identifiable.",
+      "topics": [
+        "Delegation",
+        "Managerial trust",
+        "Executive coaching"
+      ],
+      "searchTerms": [
+        "why managers struggle to delegate",
+        "delegation for managers",
+        "delegation and trust",
+        "delegation in management",
+        "executive coaching delegation"
       ],
       "status": "published"
     },
@@ -815,6 +842,34 @@
         "ارتباطات رهبری",
         "اجتناب از تعارض",
         "کوچینگ اجرایی"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fa:why-managers-struggle-to-delegate",
+      "language": "fa",
+      "slug": "why-managers-struggle-to-delegate",
+      "path": "/fa/thinking/why-managers-struggle-to-delegate",
+      "title": "چرا مدیران تفویض اختیار نمی‌کنند؟ وقتی مسئله اعتماد و کنترل است",
+      "description": "مشکل تفویض اختیار همیشه کمبود مهارت نیست. گاهی مدیر در چرخه‌ای از بی‌اعتمادی، کنترل بیشتر و پیگیری مداوم گیر می‌کند و ناخواسته وابستگی تیم را تقویت می‌کند.",
+      "inBrief": "تفویض اختیار فقط واگذاری کار نیست. اگر نتیجه، حدود تصمیم، زمان بازبینی و سطح ریسک روشن نباشد، مدیر معمولاً بین دو افراط رفت‌وآمد می‌کند: کنترل ریز یا رهاکردن کامل. نقطه شروع، روشن‌کردن چیزی است که واقعاً باید واگذار شود و چیزی که هنوز مسئولیت مدیر می‌ماند.",
+      "updatedAt": "2026-09-27",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه کوچینگ + رهبری منابع انسانی + پژوهش",
+      "sourceNote": "هسته این مقاله از تجربه طولی کوچینگ یک مدیر و تجربه حرفه‌ای من در رهبری منابع انسانی می‌آید؛ جایی که پیگیری مکرر، از دست‌رفتن اعتماد و استفاده‌نشدن از اختیارهای مدیریتی به‌صورت هم‌زمان دیده می‌شدند. این تجربه به‌تنهایی اثبات نمی‌کند که همه مشکلات تفویض چنین چرخه‌ای دارند. بنابراین چرخه‌ای که در متن توضیح داده می‌شود یک لنز عملی برای تشخیص است، نه یک مدل علمی اعتبارسنجی‌شده. پژوهش‌های مستقل درباره اعتماد، واگذاری اختیار و احساس مورد اعتماد بودن برای آزمون و محدودکردن ادعاها استفاده شده‌اند. هیچ مراجع، مدیر یا سازمانی قابل شناسایی نیست.",
+      "topics": [
+        "تفویض اختیار",
+        "اعتماد مدیریتی",
+        "کوچینگ مدیران"
+      ],
+      "searchTerms": [
+        "چرا مدیران تفویض اختیار نمی‌کنند",
+        "تفویض اختیار مدیران",
+        "تفویض اختیار در مدیریت",
+        "موانع تفویض اختیار",
+        "اعتماد و تفویض اختیار",
+        "کوچینگ مدیران"
       ],
       "status": "published"
     }
