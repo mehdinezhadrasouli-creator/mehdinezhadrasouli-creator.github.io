@@ -1,1 +1,0 @@
-import{it as e}from"./ContactDock-BlIUfRbt.js";import{t}from"./OrganizationalCoachingReadiness-C2Qd2_XO.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};

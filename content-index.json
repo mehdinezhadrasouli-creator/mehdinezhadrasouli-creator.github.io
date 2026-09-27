@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-26T21:48:46.261Z",
+  "generatedAt": "2026-09-27T20:10:46.216Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -215,6 +215,33 @@
         "sponsor agreement",
         "organizational coaching",
         "coaching outcomes"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "en:leadership-accountability-boundaries",
+      "language": "en",
+      "slug": "leadership-accountability-boundaries",
+      "path": "/thinking/leadership-accountability-boundaries",
+      "title": "When Accountability Turns Into Over-Responsibility",
+      "description": "High accountability can become less useful when a leader treats every outcome as personally theirs to carry, including choices and constraints that sit elsewhere.",
+      "inBrief": "Healthy accountability means seeing your contribution accurately. When a leader sees only two positions, fully responsible or not responsible at all, learning, boundaries and delegation become harder.",
+      "updatedAt": "2026-09-27",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "Coaching practice + cross-case pattern",
+      "sourceNote": "The core of this article comes from several independent coaching observations and approved internal evidence derivatives: absorbing full responsibility for a systemic problem, moving between the poles of everything is mine to solve and there is nothing else I can do, and difficulty separating personal contribution from the contribution of others or the surrounding system. These are qualitative observations, not prevalence evidence about managers. Zero or hundred is a practical coaching lens, not a validated psychological construct. No client, organization or reconstructable situation is published.",
+      "topics": [
+        "Leadership accountability",
+        "Over-responsibility",
+        "Executive coaching"
+      ],
+      "searchTerms": [
+        "manager over responsibility",
+        "leadership accountability",
+        "over responsibility at work",
+        "manager accountability",
+        "executive coaching accountability"
       ],
       "status": "published"
     },
@@ -678,6 +705,33 @@
         "توافق با حامی سازمانی",
         "کوچینگ سازمانی",
         "نتایج کوچینگ"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fa:leadership-accountability-boundaries",
+      "language": "fa",
+      "slug": "leadership-accountability-boundaries",
+      "path": "/fa/thinking/leadership-accountability-boundaries",
+      "title": "مسئولیت‌پذیری افراطی مدیران: وقتی «مالکیت» تبدیل به حمل همه‌چیز می‌شود",
+      "description": "مسئولیت‌پذیری بالا همیشه نقطه قوت خالص نیست. بعضی مدیران سهم خودشان را با مسئولیت کامل برای نتیجه اشتباه می‌گیرند و وزن تصمیم‌ها، خطاها و رفتار دیگران را هم روی دوش خود می‌گذارند.",
+      "inBrief": "پاسخ‌گویی سالم یعنی سهم خودمان را دقیق ببینیم، نه اینکه همه نتیجه را مال خودمان بدانیم. وقتی مدیر فقط دو حالت «کاملاً مسئولم» یا «اصلاً مسئول نیستم» می‌بیند، یادگیری، مرزبندی و واگذاری هم سخت‌تر می‌شوند.",
+      "updatedAt": "2026-09-27",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه کوچینگ + الگوی چندموردی",
+      "sourceNote": "هسته این مقاله از چند مشاهده مستقل در جلسات کوچینگ و مشتق‌های تأییدشده داخلی می‌آید: جذب کامل مسئولیت یک مسئله سیستمی، حرکت میان دو قطب «همه‌چیز با من» و «دیگر کاری از من برنمی‌آید»، و دشواری جداکردن سهم فرد از سهم دیگران و ساختار. این شواهد کیفی‌اند و برای ادعای آماری درباره مدیران استفاده نمی‌شوند. تعبیر «صفر یا صد» یک لنز عملی از تجربه کوچینگ است، نه سازه روان‌شناختی اعتبارسنجی‌شده. هیچ مراجع، سازمان یا موقعیت قابل‌شناسایی در متن منتشر نشده است.",
+      "topics": [
+        "مسئولیت‌پذیری مدیران",
+        "پاسخ‌گویی",
+        "کوچینگ مدیران"
+      ],
+      "searchTerms": [
+        "مسئولیت پذیری افراطی مدیران",
+        "مسئولیت پذیری افراطی",
+        "پاسخگویی مدیران",
+        "مسئولیت پذیری مدیر",
+        "کوچینگ مدیران"
       ],
       "status": "published"
     },
