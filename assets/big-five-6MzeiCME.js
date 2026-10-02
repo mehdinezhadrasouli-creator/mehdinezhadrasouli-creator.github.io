@@ -1,0 +1,1 @@
+import{it as e}from"./ContactDock-QCW4leE_.js";import{t}from"./BigFiveAssessment-C4eum8jm.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
