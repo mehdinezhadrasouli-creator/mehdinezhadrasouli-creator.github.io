@@ -1,1 +1,0 @@
-import{at as e}from"./ContactDock-zp8L6WIS.js";import{t}from"./LeadershipTransitionReadiness-Bl7H9I6x.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
