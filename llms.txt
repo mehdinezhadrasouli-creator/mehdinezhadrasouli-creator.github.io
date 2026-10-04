@@ -49,6 +49,7 @@ English:
 - https://mehdinejadrasouli.com/approach/ — professional approach
 - https://mehdinejadrasouli.com/about/ — background and working principles
 - https://mehdinejadrasouli.com/start/ — discovery conversation, fit and contact
+- https://mehdinejadrasouli.com/en/tools/ — reflective checks and assessment guides
 
 Persian:
 
@@ -58,6 +59,15 @@ Persian:
 - https://mehdinejadrasouli.com/fa/approach/
 - https://mehdinejadrasouli.com/fa/about/
 - https://mehdinejadrasouli.com/fa/start/
+- https://mehdinejadrasouli.com/fa/tools/ — بررسی‌های بازتابی و راهنماهای ارزیابی
+
+## Reflective tools
+
+These are self-report reflective checks for a live leadership situation. They are not diagnoses, validated assessments, or overall scores. Answers stay in the browser.
+
+- Leadership Transition Readiness Check: https://mehdinejadrasouli.com/en/tools/leadership-transition-readiness/ and https://mehdinejadrasouli.com/fa/tools/leadership-transition-readiness/
+- Delegation and Over-Responsibility Check: https://mehdinejadrasouli.com/en/tools/delegation-over-responsibility/ and https://mehdinejadrasouli.com/fa/tools/delegation-over-responsibility/
+- People Problem or System Problem?: https://mehdinejadrasouli.com/en/tools/people-or-system/ and https://mehdinejadrasouli.com/fa/tools/people-or-system/
 
 Current Thinking is organized around four evidence-led topic clusters:
 
@@ -65,11 +75,15 @@ Current Thinking is organized around four evidence-led topic clusters:
 - Readiness: https://mehdinejadrasouli.com/thinking/when-not-to-start-organizational-coaching/
 - Direct manager role: https://mehdinejadrasouli.com/thinking/manager-role-organizational-coaching/
 - Measuring impact: https://mehdinejadrasouli.com/thinking/measuring-organizational-coaching-impact/
-- System diagnosis before coaching: https://mehdinejadrasouli.com/thinking/before-coaching-leader-check-system/
+- Before coaching the leader, check the system: https://mehdinejadrasouli.com/thinking/before-coaching-leader-check-system/
 - Contracting and confidentiality: https://mehdinejadrasouli.com/thinking/individual-coaching-is-not-organizational-coaching/
 
 ### Executive coaching and leadership
 - Pressure after promotion: https://mehdinejadrasouli.com/thinking/after-promotion-pressure-leadership-transition/
+- Delegation and control: https://mehdinejadrasouli.com/thinking/why-managers-struggle-to-delegate/
+- Accountability and over-responsibility: https://mehdinejadrasouli.com/thinking/leadership-accountability-boundaries/
+- Coaching for HR leaders: https://mehdinejadrasouli.com/thinking/coaching-for-hr-leaders/
+- What shapes an executive coaching fee: https://mehdinejadrasouli.com/thinking/executive-coaching-cost/
 - Promotion and self-worth: https://mehdinejadrasouli.com/thinking/when-promotion-becomes-proof-of-worth/
 - Difficult manager relationships: https://mehdinejadrasouli.com/thinking/when-your-manager-is-the-problem/
 - Choosing an executive coach: https://mehdinejadrasouli.com/thinking/how-to-choose-an-executive-coach/
