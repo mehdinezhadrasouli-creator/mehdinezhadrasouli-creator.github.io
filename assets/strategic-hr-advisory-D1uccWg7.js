@@ -1,1 +1,0 @@
-import{at as e}from"./ContactDock-BbWptCcQ.js";import{fn as t,mn as n}from"./index-Brnyc3Ne.js";import{t as r}from"./ServiceLanding-B4yDxRI9.js";var i=e(),a=()=>(0,i.jsx)(r,{copy:t,language:`fa`,layout:e=>(0,i.jsx)(n,{children:e})});export{a as component};
