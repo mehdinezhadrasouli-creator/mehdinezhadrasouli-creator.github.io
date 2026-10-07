@@ -1,0 +1,1 @@
+import{at as e}from"./ContactDock-DqO7HpWZ.js";import{t}from"./DelegationChallenge-DKBznsZ2.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
