@@ -115,6 +115,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/delegation-challenge/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/en/tools/new-manager-simulator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/en/tools/hogan-assessment/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/hogan-assessment/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/hogan-assessment/" />
@@ -251,6 +257,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/delegation-challenge/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/delegation-challenge/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/delegation-challenge/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/tools/new-manager-simulator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/fa/tools/hogan-assessment/</loc>

@@ -1,1 +1,0 @@
-import{at as e}from"./ContactDock--fZ2TNR6.js";import{t}from"./DelegationChallenge-DMKtkyop.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
