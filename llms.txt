@@ -69,6 +69,7 @@ These are self-report reflective checks for a live leadership situation. They ar
 - Delegation and Over-Responsibility Check: https://mehdinejadrasouli.com/en/tools/delegation-over-responsibility/ and https://mehdinejadrasouli.com/fa/tools/delegation-over-responsibility/
 - People Problem or System Problem?: https://mehdinejadrasouli.com/en/tools/people-or-system/ and https://mehdinejadrasouli.com/fa/tools/people-or-system/
 - Difficult Conversation Simulator: https://mehdinejadrasouli.com/en/tools/difficult-conversation-simulator/ and https://mehdinejadrasouli.com/fa/tools/difficult-conversation-simulator/
+- Delegation Challenge: https://mehdinejadrasouli.com/en/tools/delegation-challenge/ and https://mehdinejadrasouli.com/fa/tools/delegation-challenge/
 
 Current Thinking is organized around four evidence-led topic clusters:
 
