@@ -1,1 +1,0 @@
-import{at as e}from"./ContactDock-DqO7HpWZ.js";import{t}from"./NewManagerSimulator-BdBlWrv0.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
