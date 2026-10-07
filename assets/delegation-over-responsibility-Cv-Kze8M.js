@@ -1,0 +1,1 @@
+import{ot as e}from"./ContactDock-1ZXXV70v.js";import{t}from"./DelegationOverResponsibility-Dx3LtsHg.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
