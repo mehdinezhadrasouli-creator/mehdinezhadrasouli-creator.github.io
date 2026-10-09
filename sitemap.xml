@@ -61,6 +61,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/strategic-hr-advisory/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/en/games/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/en/tools/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/" />
@@ -103,22 +109,22 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/people-or-system/" />
   </url>
   <url>
-    <loc>https://mehdinejadrasouli.com/en/tools/difficult-conversation-simulator/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/difficult-conversation-simulator/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/difficult-conversation-simulator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/difficult-conversation-simulator/" />
+    <loc>https://mehdinejadrasouli.com/en/games/difficult-conversation-simulator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/difficult-conversation-simulator/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/difficult-conversation-simulator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/difficult-conversation-simulator/" />
   </url>
   <url>
-    <loc>https://mehdinejadrasouli.com/en/tools/delegation-challenge/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/delegation-challenge/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/delegation-challenge/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/delegation-challenge/" />
+    <loc>https://mehdinejadrasouli.com/en/games/delegation-challenge/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/delegation-challenge/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/delegation-challenge/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/delegation-challenge/" />
   </url>
   <url>
-    <loc>https://mehdinejadrasouli.com/en/tools/new-manager-simulator/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/new-manager-simulator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
+    <loc>https://mehdinejadrasouli.com/en/games/new-manager-simulator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/new-manager-simulator/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/en/tools/hogan-assessment/</loc>
@@ -205,6 +211,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/strategic-hr-advisory/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/fa/games/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/fa/tools/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/" />
@@ -247,22 +259,22 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/people-or-system/" />
   </url>
   <url>
-    <loc>https://mehdinejadrasouli.com/fa/tools/difficult-conversation-simulator/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/difficult-conversation-simulator/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/difficult-conversation-simulator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/difficult-conversation-simulator/" />
+    <loc>https://mehdinejadrasouli.com/fa/games/difficult-conversation-simulator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/difficult-conversation-simulator/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/difficult-conversation-simulator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/difficult-conversation-simulator/" />
   </url>
   <url>
-    <loc>https://mehdinejadrasouli.com/fa/tools/delegation-challenge/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/delegation-challenge/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/delegation-challenge/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/delegation-challenge/" />
+    <loc>https://mehdinejadrasouli.com/fa/games/delegation-challenge/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/delegation-challenge/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/delegation-challenge/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/delegation-challenge/" />
   </url>
   <url>
-    <loc>https://mehdinejadrasouli.com/fa/tools/new-manager-simulator/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/tools/new-manager-simulator/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/tools/new-manager-simulator/" />
+    <loc>https://mehdinejadrasouli.com/fa/games/new-manager-simulator/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/en/games/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/games/new-manager-simulator/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/en/games/new-manager-simulator/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/fa/tools/hogan-assessment/</loc>
