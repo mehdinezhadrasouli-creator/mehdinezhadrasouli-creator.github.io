@@ -1,0 +1,1 @@
+import{ot as e}from"./ContactDock-DQ2mkGCu.js";import{t}from"./GamesHub-BXsW6Jz3.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`en`,pendingId:`delegation-challenge`});export{r as component};

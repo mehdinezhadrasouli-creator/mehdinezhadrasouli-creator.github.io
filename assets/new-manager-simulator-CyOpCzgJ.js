@@ -1,1 +1,0 @@
-import{ot as e}from"./ContactDock-DQ2mkGCu.js";import{t}from"./GamesHub-CWKzH9hH.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`fa`,pendingId:`new-manager-simulator`});export{r as component};
