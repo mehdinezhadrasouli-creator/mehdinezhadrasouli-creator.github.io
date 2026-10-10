@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./GamesHub-DwdE2Vxl.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`fa`,pendingId:`new-manager-simulator`});export{r as component};

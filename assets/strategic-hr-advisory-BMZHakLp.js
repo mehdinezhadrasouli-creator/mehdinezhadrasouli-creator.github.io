@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{xn as t,yn as n}from"./index-ZGZNCWD_.js";import{t as r}from"./ServiceLanding-BRZvGRXe.js";var i=e(),a=()=>(0,i.jsx)(r,{copy:n,language:`fa`,layout:e=>(0,i.jsx)(t,{children:e})});export{a as component};

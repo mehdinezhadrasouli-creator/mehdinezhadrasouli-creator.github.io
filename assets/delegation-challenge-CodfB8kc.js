@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./GamesHub-DwdE2Vxl.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`fa`,pendingId:`delegation-challenge`});export{r as component};
