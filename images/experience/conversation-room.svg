@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 660" role="img" aria-label="An editorial illustration of two chairs facing each other in a quiet coaching room">
+<defs>
+ <linearGradient id="wall" x1="0" x2="1"><stop stop-color="#e6d8bc"/><stop offset=".52" stop-color="#f0e7d5"/><stop offset="1" stop-color="#d8decf"/></linearGradient>
+ <linearGradient id="floor" x1="0" x2="1"><stop stop-color="#c3aa8b"/><stop offset="1" stop-color="#dfd0b8"/></linearGradient>
+ <linearGradient id="cushion" x1="0" x2="1"><stop stop-color="#2d6555"/><stop offset="1" stop-color="#153d34"/></linearGradient>
+ <linearGradient id="chair2" x1="0" x2="1"><stop stop-color="#aa785b"/><stop offset="1" stop-color="#805744"/></linearGradient>
+ <radialGradient id="sun"><stop stop-color="#fff1cf" stop-opacity=".8"/><stop offset="1" stop-color="#fff1cf" stop-opacity="0"/></radialGradient>
+ <filter id="shade"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="980" height="660" fill="url(#wall)"/>
+<circle cx="795" cy="145" r="220" fill="url(#sun)"/>
+<rect y="470" width="980" height="190" fill="url(#floor)"/>
+<path d="M0 472h980" stroke="#cbbca8" stroke-width="4"/>
+<path d="M120 75h290v315H120z" fill="#c3c9b7" opacity=".75"/>
+<path d="M143 91h240v279H143z" fill="#e3e8db"/>
+<path d="M263 91v279M143 226h240" fill="none" stroke="#a8b4a5" stroke-width="11"/>
+<path d="M159 370l43-100 35 36 46-112 56 176z" fill="#91a68e" opacity=".6"/>
+<path d="M75 485h790" stroke="#c8af8e" stroke-width="2" opacity=".6"/>
+<ellipse cx="490" cy="574" rx="350" ry="40" fill="#746f58" opacity=".16" filter="url(#shade)"/>
+<!-- reading lamp -->
+<path d="M805 478v-205" stroke="#665c4c" stroke-width="11" stroke-linecap="round"/>
+<path d="M735 277h145l-24-73h-97z" fill="#d1b38a"/>
+<ellipse cx="807" cy="281" rx="72" ry="11" fill="#9e825f"/>
+<path d="M762 204h91" stroke="#f1e8d7" stroke-width="5" opacity=".6"/>
+<path d="M782 478h48" stroke="#665c4c" stroke-width="10" stroke-linecap="round"/>
+<!-- left chair back -->
+<g transform="translate(192 298) rotate(-7 120 130)">
+ <rect x="39" y="16" width="198" height="169" rx="57" fill="url(#cushion)"/>
+ <path d="M65 65q66-42 146-3" fill="none" stroke="#8fb3a0" stroke-width="3" opacity=".5"/>
+ <rect x="12" y="132" width="245" height="100" rx="39" fill="#1e5044"/>
+ <path d="M50 233l-10 112M209 233l13 112" stroke="#694f39" stroke-width="19" stroke-linecap="round"/>
+ <rect x="2" y="111" width="50" height="114" rx="22" fill="#34695a"/>
+ <rect x="220" y="111" width="50" height="114" rx="22" fill="#326456"/>
+ <path d="M52 181q80 28 167 0" fill="none" stroke="#a8c6b3" stroke-width="4" opacity=".4"/>
+</g>
+<!-- right chair -->
+<g transform="translate(620 310) rotate(9 85 110)">
+ <rect x="20" y="5" width="173" height="170" rx="48" fill="url(#chair2)"/>
+ <path d="M40 59q64-31 132 0" stroke="#d9ac8b" opacity=".6" fill="none" stroke-width="3"/>
+ <rect x="5" y="136" width="210" height="90" rx="36" fill="#a37760"/>
+ <rect x="-7" y="112" width="44" height="101" rx="22" fill="#b68d72"/>
+ <rect x="178" y="112" width="43" height="101" rx="22" fill="#b68d72"/>
+ <path d="M45 227l-15 102M179 227l15 102" stroke="#674d3a" stroke-width="15" stroke-linecap="round"/>
+</g>
+<!-- table and notebooks -->
+<ellipse cx="515" cy="508" rx="101" ry="33" fill="#967b5f"/>
+<path d="M427 496h176l-8 24H434z" fill="#ac9376"/>
+<path d="M505 520l-13 70M546 520l17 70" stroke="#6c5745" stroke-width="14" stroke-linecap="round"/>
+<path d="M473 481l88-5 13 20-89 6z" fill="#f3eedf" stroke="#9f9c85" stroke-width="1.5"/>
+<path d="M510 480l2 19" stroke="#d0b996" stroke-width="2"/>
+<path d="M494 486h10m-10 5h12m10-6h30" stroke="#b4a896" stroke-width="2" opacity=".8"/>
+<path d="M556 470l24 20" stroke="#674c36" stroke-width="4" stroke-linecap="round"/>
+<!-- living plant -->
+<path d="M906 511q-8-72-9-146M906 492q-47-62-49-100M906 465q45-56 52-103" stroke="#476b51" stroke-width="6" fill="none"/>
+<path d="M896 413q-55-29-50-65 40 5 50 65zm7-35q10-55 56-66-10 51-56 66zm-27 52q-55-2-67-36 47-17 67 36zm42-40q37-32 60-9-20 32-60 9z" fill="#6c8b63"/>
+<path d="M868 501h80l-12 75h-56z" fill="#b98967"/>
+<!-- no humans depicted: an intentional empty place for a conversation -->
+</svg>

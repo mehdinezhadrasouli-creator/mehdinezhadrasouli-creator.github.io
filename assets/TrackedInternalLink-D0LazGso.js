@@ -1,1 +1,0 @@
-import{f as e,o as t,ot as n}from"./ContactDock-DQ2mkGCu.js";var r=n();function i({language:n,sourceType:i,source:a,destinationType:o,destination:s,href:c,className:l,children:u}){return(0,r.jsx)(`a`,{href:e(c),className:l,onClick:()=>{try{t({language:n,sourceType:i,source:a,destinationType:o,destination:s})}catch{}},children:u})}export{i as t};
