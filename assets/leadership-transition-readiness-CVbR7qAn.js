@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./LeadershipTransitionReadiness-CLJjm1K_.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
