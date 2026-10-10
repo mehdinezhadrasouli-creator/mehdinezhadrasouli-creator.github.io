@@ -1,0 +1,1 @@
+import{at as e}from"./ContactDock-v5wyejVu.js";import{t}from"./LeadershipTransitionReadiness-D8ffNzt9.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
