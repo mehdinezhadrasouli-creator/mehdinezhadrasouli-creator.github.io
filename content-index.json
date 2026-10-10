@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-10T21:29:31.835Z",
+  "generatedAt": "2026-10-10T21:59:59.859Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -84,6 +84,32 @@
       "status": "published"
     },
     {
+      "id": "en:can-chatgpt-replace-human-coach",
+      "language": "en",
+      "slug": "can-chatgpt-replace-human-coach",
+      "path": "/thinking/can-chatgpt-replace-human-coach",
+      "title": "Can ChatGPT Replace a Human Executive Coach?",
+      "description": "An executive coach who uses AI explains where ChatGPT helps and what professional human coaching adds.",
+      "inBrief": "ChatGPT can support reflection, rehearsal and option-mapping. A professional human coach can offer an accountable, confidential working relationship and deliberate stewardship of the process, while the client retains ownership of the decision.",
+      "updatedAt": "2026-10-11",
+      "category": "Human & AI",
+      "format": "Practice essay",
+      "evidence": "My authored AI/coaching writing + process-stewardship reflections",
+      "sourceNote": "The central argument derives from my authored 2026 article 'AI Can Support Coaching Without Owning the Judgment', my documented note 'Client Owns Direction; Coach Stewards Process', and my published work on context-rich AI. These are bounded reflections from practice, not evidence that human coaching always outperforms AI. No identifiable coaching case appears. ICF ethics is an external professional reference.",
+      "topics": [
+        "AI in coaching",
+        "Executive coaching",
+        "Professional judgment"
+      ],
+      "searchTerms": [
+        "can ChatGPT replace coaching",
+        "AI vs human coach",
+        "ChatGPT executive coaching",
+        "human coach vs AI"
+      ],
+      "status": "published"
+    },
+    {
       "id": "en:client-owns-direction-coach-stewards-process",
       "language": "en",
       "slug": "client-owns-direction-coach-stewards-process",
@@ -134,6 +160,33 @@
         "executive coaching for HR",
         "coaching HR executives",
         "HR leader development"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "en:coaching-vs-mentoring-consulting",
+      "language": "en",
+      "slug": "coaching-vs-mentoring-consulting",
+      "path": "/thinking/coaching-vs-mentoring-consulting",
+      "title": "Coaching, Mentoring or Consulting: What Do You Actually Need?",
+      "description": "Coaching, mentoring and consulting answer different needs. A senior HR leader and executive coach explains when each form of help fits.",
+      "inBrief": "Coaching supports reflection and ownership of a decision. Mentoring shares experience. Consulting provides specialist analysis and recommendations. Start with the problem and the support you need, rather than the service label.",
+      "updatedAt": "2026-10-11",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "HR leadership and coaching practice + authored role-boundary reflections",
+      "sourceNote": "The main argument traces to my documented HR-leadership and coaching experience, particularly my coaching-for-HR-leaders article, my own experience of receiving coaching during a career transition, and my September 2026 authored client-ownership/process-stewardship note. These are bounded practitioner observations, not generalizable outcomes. Confidential client material is excluded. ICF competencies provide professional context.",
+      "topics": [
+        "Executive coaching",
+        "Mentoring",
+        "Consulting",
+        "Professional boundaries"
+      ],
+      "searchTerms": [
+        "coaching vs mentoring",
+        "coaching vs consulting",
+        "what is executive coaching",
+        "coach mentor consultant differences"
       ],
       "status": "published"
     },
@@ -306,8 +359,8 @@
       "path": "/thinking/people-questions-are-rarely-only-people-questions",
       "title": "When you cannot change the system, where can you start?",
       "description": "Not everything is under our control. Coaching can help separate what is within a leader’s control from what they can influence, and turn a large problem into choices and actions that are still available.",
-      "inBrief": "When the system will not change, start by separating what you control, what you can influence and what you may need to accept. Coaching can turn a large external problem into a specific next choice.",
-      "updatedAt": "2026-09-24",
+      "inBrief": "When a decision feels stuck, separate what you control, what you can influence and what you must accept. Sometimes the next move is gathering information rather than forcing a final answer.",
+      "updatedAt": "2026-10-11",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Coaching practice + organizational experience",
@@ -354,6 +407,33 @@
       "status": "published"
     },
     {
+      "id": "en:unhappy-at-work-stay-or-leave",
+      "language": "en",
+      "slug": "unhappy-at-work-stay-or-leave",
+      "path": "/thinking/unhappy-at-work-stay-or-leave",
+      "title": "Unhappy at Work: Should You Stay or Leave?",
+      "description": "A grounded guide for experienced professionals torn between staying and leaving. Separate role constraints, personal trade-offs and what you still need to test.",
+      "inBrief": "Unhappiness at work does not automatically mean you should resign; a strong salary does not mean you should stay. Separate conditions you can negotiate, boundaries you cannot accept and assumptions you can test before making the decision.",
+      "updatedAt": "2026-10-11",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "My HR leadership and career transition + authored career-experiment reflection",
+      "sourceNote": "This argument is anchored in my personal transition account in 'Coaching for HR Leaders', my authored September 2026 essay 'When Career Planning Stops Producing Useful Information', and my documented HR reflections on staying without choosing the workplace experience. The stay/change/test distinction is a practitioner reflection, not a validated decision model. No identifiable private client or employer case is reproduced. Ibarra's work provides external context.",
+      "topics": [
+        "Career transitions",
+        "Executive coaching",
+        "Decision making"
+      ],
+      "searchTerms": [
+        "unhappy at work stay or leave",
+        "should I quit my job",
+        "career change decision",
+        "executive career transition",
+        "stay or leave leadership role"
+      ],
+      "status": "published"
+    },
+    {
       "id": "en:when-not-to-start-organizational-coaching",
       "language": "en",
       "slug": "when-not-to-start-organizational-coaching",
@@ -388,7 +468,7 @@
       "title": "Promotion Is Not Always Just Promotion: When the Next Role Becomes a Test of Self-Worth",
       "description": "Sometimes the question behind “How do I get promoted?” is a different one",
       "inBrief": "Promotion can be a legitimate career goal and still become emotionally loaded when it is used as proof of worth. Separating self-worth, readiness and opportunity makes the career question more precise.",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-10-11",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Practice + contingent self-worth research + promotions research",
@@ -441,8 +521,8 @@
       "path": "/thinking/why-difficult-conversations-get-delayed",
       "title": "Why We Delay Difficult Conversations",
       "description": "When the real issue is not only what to say",
-      "inBrief": "Managers often delay difficult conversations not because they lack words, but because relationship risk, uncertainty or avoidance remains unresolved. Before scripting the conversation, identify what has kept it from happening.",
-      "updatedAt": "2026-09-24",
+      "inBrief": "When an employee is underperforming, clarify observable facts, expectations and the reason for delay before scripting feedback. Coaching helps the manager own the dialogue; it does not replace performance management.",
+      "updatedAt": "2026-10-11",
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "Practice + ICF guidance + management literature",
@@ -571,6 +651,34 @@
       "status": "published"
     },
     {
+      "id": "fa:can-chatgpt-replace-human-coach",
+      "language": "fa",
+      "slug": "can-chatgpt-replace-human-coach",
+      "path": "/fa/thinking/can-chatgpt-replace-human-coach",
+      "title": "آیا ChatGPT می‌تواند جای کوچ حرفه‌ای را بگیرد؟",
+      "description": "از تجربه کار با AI و کوچینگ: هوش مصنوعی کجا کمک می‌کند و رابطه حرفه‌ای با کوچ انسانی چه تفاوتی دارد؟",
+      "inBrief": "ChatGPT برای تأمل، بررسی گزینه‌ها و تمرین گفت‌وگو مفید است. کوچ حرفه‌ای رابطه‌ای قراردادی با مسئولیت اخلاقی، محرمانگی و نگه‌داشتن فرایند ایجاد می‌کند؛ در هر دو حالت، تصمیم با خود فرد می‌ماند.",
+      "updatedAt": "2026-10-11",
+      "category": "انسان و هوش مصنوعی",
+      "format": "مقاله کاربردی",
+      "evidence": "نوشته‌های شخصی من درباره AI و کوچینگ + تأمل درباره مالکیت مراجع",
+      "sourceNote": "استدلال اصلی از مقاله نوشته‌شده من در سپتامبر ۲۰۲۶ «AI Can Support Coaching Without Owning the Judgment»، یادداشت «مراجع مالک تصمیم است، کوچ نگه‌دارنده فرایند» و تجربه ثبت‌شده‌ام درباره اهمیت زمینه قابل‌ردیابی در استفاده از AI می‌آید. این موضعی حرفه‌ای مبتنی بر تجربه است، نه ادعای برتری همیشگی کوچ انسانی. هیچ محتوای محرمانه مراجع در متن وجود ندارد. اخلاق ICF مرجع بیرونی است.",
+      "topics": [
+        "هوش مصنوعی در کوچینگ",
+        "کوچینگ اجرایی",
+        "قضاوت حرفه ای",
+        "محرمانگی"
+      ],
+      "searchTerms": [
+        "هوش مصنوعی و کوچینگ",
+        "چت جی پی تی یا کوچ",
+        "آیا AI جای کوچ را می گیرد",
+        "کوچینگ با ChatGPT",
+        "تفاوت کوچ انسانی و هوش مصنوعی"
+      ],
+      "status": "published"
+    },
+    {
       "id": "fa:client-owns-direction-coach-stewards-process",
       "language": "fa",
       "slug": "client-owns-direction-coach-stewards-process",
@@ -621,6 +729,34 @@
         "کوچینگ برای مدیر منابع انسانی",
         "توسعه مدیران منابع انسانی",
         "کوچینگ رهبران منابع انسانی"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fa:coaching-vs-mentoring-consulting",
+      "language": "fa",
+      "slug": "coaching-vs-mentoring-consulting",
+      "path": "/fa/thinking/coaching-vs-mentoring-consulting",
+      "title": "کوچینگ چیست و چه فرقی با منتورینگ و مشاوره دارد؟",
+      "description": "از تجربه مدیریت منابع انسانی و کوچینگ: چه زمانی به پاسخ تخصصی، تجربه یک منتور یا گفت‌وگویی برای روشن‌کردن انتخاب خودمان نیاز داریم؟",
+      "inBrief": "کوچینگ به روشن‌شدن فکر، انتخاب و مسئولیت مراجع کمک می‌کند. منتورینگ تجربه یک فرد باتجربه‌تر را در اختیار ما می‌گذارد و مشاوره تحلیل و راهکار تخصصی ارائه می‌دهد. انتخاب درست از شناخت نیاز شروع می‌شود، نه اسم خدمت.",
+      "updatedAt": "2026-10-11",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه رهبری منابع انسانی و کوچینگ + یادداشت‌های حرفه‌ای درباره مرز نقش‌ها",
+      "sourceNote": "استدلال اصلی از تجربه مستند من در رهبری منابع انسانی، مقاله «کوچینگ مدیران منابع انسانی»، تجربه شخصی دریافت کوچینگ در گذار حرفه‌ای و یادداشت ۱۴۰۵/۰۶ درباره مالکیت مراجع و مسئولیت فرایندی کوچ استخراج شده است. اینها مشاهده‌های حرفه‌ای‌اند، نه آمار اثربخشی. هیچ محتوای محرمانه یا مورد قابل‌شناسایی از جلسات بازگو نشده است. شایستگی‌های ICF فقط برای تعیین مرز حرفه‌ای استفاده شده‌اند.",
+      "topics": [
+        "کوچینگ اجرایی",
+        "منتورینگ",
+        "مشاوره تخصصی",
+        "مرز نقش‌ها"
+      ],
+      "searchTerms": [
+        "کوچینگ چیست",
+        "تفاوت کوچینگ و منتورینگ",
+        "تفاوت کوچینگ و مشاوره",
+        "کوچ اجرایی",
+        "چه زمانی کوچینگ مفید است"
       ],
       "status": "published"
     },
@@ -798,8 +934,8 @@
       "path": "/fa/thinking/people-questions-are-rarely-only-people-questions",
       "title": "وقتی نمی‌توانی سیستم را عوض کنی، از کجا می‌توانی شروع کنی؟",
       "description": "همه‌چیز در اختیار ما نیست. اما در کوچینگ می‌توانیم میان حیطه اختیار و حیطه اثرگذاری فرق بگذاریم و از بخشی از مسئله شروع کنیم که هنوز امکان انتخاب و اقدام در آن وجود دارد.",
-      "inBrief": "وقتی سیستم تغییر نمی‌کند، می‌توان از تفکیک حیطه اختیار، حیطه اثرگذاری و چیزهایی که باید پذیرفت شروع کرد. کوچینگ کمک می‌کند یک مسئله بزرگ بیرونی به انتخاب بعدی مشخص تبدیل شود.",
-      "updatedAt": "2026-09-24",
+      "inBrief": "وقتی در تصمیم‌گیری گیر کرده‌ایم، لازم نیست فوراً پاسخ نهایی پیدا کنیم. می‌توانیم میان آنچه در اختیار ماست، آنچه روی آن اثر داریم و آنچه باید بپذیریم تفاوت بگذاریم و قدم بعدی را روشن کنیم.",
+      "updatedAt": "2026-10-11",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه کوچینگ + تجربه سازمانی",
@@ -846,6 +982,33 @@
       "status": "published"
     },
     {
+      "id": "fa:unhappy-at-work-stay-or-leave",
+      "language": "fa",
+      "slug": "unhappy-at-work-stay-or-leave",
+      "path": "/fa/thinking/unhappy-at-work-stay-or-leave",
+      "title": "از شغلم ناراضی‌ام؛ بمانم یا بروم؟",
+      "description": "وقتی میان ماندن و استعفا مرددیم، بهتر است محدودیت‌های نقش، خواسته‌های خودمان و فرض‌هایی را که می‌توان آزمود از هم جدا کنیم.",
+      "inBrief": "نارضایتی شغلی به‌تنهایی دلیل قطعی استعفا نیست؛ حقوق خوب هم دلیل کافی برای ماندن نیست. ابتدا ببینیم چه چیزی در نقش فعلی قابل تغییر است، کدام مرز غیرقابل‌مذاکره است و درباره گزینه بعدی چه اطلاعاتی نداریم.",
+      "updatedAt": "2026-10-11",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه گذار حرفه‌ای من + رهبری منابع انسانی + نوشته شخصی درباره آزمایش مسیر شغلی",
+      "sourceNote": "مبنای استدلال، روایت مستند گذار حرفه‌ای خودم در مقاله «کوچینگ مدیران منابع انسانی»، نوشته سپتامبر ۲۰۲۶ «When Career Planning Stops Producing Useful Information» و تأمل HR درباره تفاوت ماندن و انتخاب دوباره محیط کار است. پیشنهاد تفکیک شرایط، نقش و هویت یک چارچوب تأملی برخاسته از تجربه است و نه مدل اعتبارسنجی‌شده. از هیچ پرونده یا گفت‌وگوی محرمانه مراجع استفاده عمومی نشده است. پژوهش ایبارا صرفاً زمینه بیرونی است.",
+      "topics": [
+        "گذار شغلی",
+        "تصمیم گیری",
+        "کوچینگ اجرایی"
+      ],
+      "searchTerms": [
+        "از شغلم ناراضی ام",
+        "استعفا بدهم یا بمانم",
+        "تصمیم به تغییر شغل",
+        "ماندن یا رفتن از کار",
+        "کوچینگ تغییر شغل"
+      ],
+      "status": "published"
+    },
+    {
       "id": "fa:when-not-to-start-organizational-coaching",
       "language": "fa",
       "slug": "when-not-to-start-organizational-coaching",
@@ -879,8 +1042,8 @@
       "path": "/fa/thinking/when-promotion-becomes-proof-of-worth",
       "title": "ارتقا همیشه فقط ارتقا نیست",
       "description": "وقتی جایگاه بالاتر تبدیل به آزمون ارزشمندی می‌شود",
-      "inBrief": "ارتقا می‌تواند یک هدف شغلی کاملاً واقعی باشد و در عین حال وقتی به اثبات ارزشمندی وصل می‌شود، بار روانی بیشتری پیدا کند. جداکردن ارزشمندی، آمادگی و فرصت، سؤال حرفه‌ای را دقیق‌تر می‌کند.",
-      "updatedAt": "2026-09-24",
+      "inBrief": "حتی وقتی از بیرون موفق به نظر می‌رسیم، ممکن است ارزشمندی خودمان را به ارتقا و تأیید دیگران گره بزنیم. جداکردن ارزش شخصی، آمادگی حرفه‌ای و فرصت واقعی سازمان کمک می‌کند نتیجه یک تصمیم شغلی را حکم نهایی درباره خودمان ندانیم.",
+      "updatedAt": "2026-10-11",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + پژوهش ارزشمندی مشروط + پژوهش ارتقا",
@@ -933,8 +1096,8 @@
       "path": "/fa/thinking/why-difficult-conversations-get-delayed",
       "title": "گفت‌وگوی دشوار برای مدیران: چرا آن را عقب می‌اندازیم؟",
       "description": "گفت‌وگوی دشوار مدیران همیشه با پیدا کردن جمله مناسب حل نمی‌شود. گاهی باید دید چه چیزی در رابطه، ابهام یا تعارض باعث تعویق شده است.",
-      "inBrief": "مدیران همیشه به‌خاطر ندانستن جمله مناسب گفت‌وگوی دشوار را عقب نمی‌اندازند. گاهی نگرانی درباره رابطه، ابهام یا اجتناب حل‌نشده است؛ قبل از نوشتن متن گفت‌وگو، باید دید چه چیزی تا امروز مانع آن شده است.",
-      "updatedAt": "2026-09-27",
+      "inBrief": "اگر عملکرد یکی از اعضای تیم پایین است، قبل از بازخورد باید انتظار روشن، رفتار قابل مشاهده و دلیل تعویق گفت‌وگو را جدا کنیم. کوچینگ جای مدیریت عملکرد را نمی‌گیرد؛ به مدیر کمک می‌کند مسئولیت گفت‌وگو را بپذیرد.",
+      "updatedAt": "2026-10-11",
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه حرفه‌ای + راهنمای ICF + ادبیات مدیریت",
