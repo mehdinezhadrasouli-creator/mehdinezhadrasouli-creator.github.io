@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./OrganizationalCoachingReadinessExpertReview-DSTxp9PR.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};

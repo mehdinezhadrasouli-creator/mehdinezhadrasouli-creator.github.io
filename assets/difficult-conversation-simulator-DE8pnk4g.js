@@ -1,1 +1,0 @@
-import{at as e}from"./ContactDock-v5wyejVu.js";import{t}from"./DifficultConversationSimulator-BZlqA1pi.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};

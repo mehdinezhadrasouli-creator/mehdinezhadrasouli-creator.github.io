@@ -1,0 +1,49 @@
+/*
+ * Homepage restoration after V3.6:
+ * retain the editorial hero while making the homepage a concise gateway to
+ * the established practice, writing, tools, games and media pages.
+ */
+.compact-ex-home{width:100%;isolation:isolate}
+.compact-ex-home .hero{min-height:0}
+.compact-ex-home .hero-grid{min-height:510px;gap:clamp(18px,2vw,35px)}
+.compact-ex-home .hero-message{padding:30px 0 35px}
+.compact-ex-home .hero h1{font-size:clamp(42px,4.9vw,75px);margin-block:16px;line-height:1.3}
+.compact-ex-home .hero-lead{font-size:clamp(13px,1.1vw,15px);line-height:1.85;margin-bottom:20px}
+.compact-ex-home .hero-visual{height:475px}
+.compact-ex-home .portrait-card{inset:auto auto 5% 22%;width:min(53%,330px)}
+.compact-ex-home .portrait-card img{height:275px}
+.compact-ex-home .hero-insights{margin-top:19px}
+.compact-ex-home .hero-footer{height:45px}
+.compact-ex-home .hero-track{height:28px}
+.compact-ex-home .ambient-ring{opacity:.54}
+.compact-ex-home .hero-visual:focus-within{outline:2px solid #e4c28c;outline-offset:3px}
+
+@media (max-width:960px){
+  .compact-ex-home .hero-grid{min-height:450px}
+  .compact-ex-home .hero-visual{height:415px}
+  .compact-ex-home .portrait-card img{height:238px}
+  .compact-ex-home .hero-message{padding-block:25px}
+  .compact-ex-home .hero h1{font-size:clamp(37px,4.5vw,58px)}
+}
+@media (max-width:700px){
+  .compact-ex-home .hero-grid{min-height:0;display:flex;flex-direction:column;gap:0}
+  .compact-ex-home .hero-message{padding:32px 0 10px}
+  .compact-ex-home .hero h1{font-size:clamp(35px,9.2vw,51px);line-height:1.34}
+  .compact-ex-home .hero-lead{line-height:1.85;font-size:13px;margin-bottom:17px}
+  .compact-ex-home .hero-actions{gap:12px}
+  .compact-ex-home .hero-visual{height:345px;width:100%;min-height:0}
+  .compact-ex-home .portrait-card{bottom:6%;left:22%;width:min(57%,280px)}
+  .compact-ex-home .portrait-card img{height:205px}
+  .compact-ex-home .hero-handnote{top:2%;width:49%}
+  .compact-ex-home .hero-footer{height:42px}
+  .compact-ex-home .hero-insights{margin-top:16px}
+}
+@media (max-width:385px){
+  .compact-ex-home .hero h1{font-size:35px}
+  .compact-ex-home .hero-visual{height:315px}
+  .compact-ex-home .portrait-card img{height:184px}
+  .compact-ex-home .hero-handnote{width:56%}
+}
+@media (prefers-reduced-motion:reduce){
+  .compact-ex-home .portrait-card,.compact-ex-home .architectural-object{transition:none!important;transform:none}
+}

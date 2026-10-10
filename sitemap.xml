@@ -25,6 +25,12 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/approach/" />
   </url>
   <url>
+    <loc>https://mehdinejadrasouli.com/experience/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/experience/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/experience/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/experience/" />
+  </url>
+  <url>
     <loc>https://mehdinejadrasouli.com/about/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/about/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/about/" />
@@ -173,6 +179,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/approach/" />
     <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/approach/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/approach/" />
+  </url>
+  <url>
+    <loc>https://mehdinejadrasouli.com/fa/experience/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mehdinejadrasouli.com/experience/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://mehdinejadrasouli.com/fa/experience/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mehdinejadrasouli.com/experience/" />
   </url>
   <url>
     <loc>https://mehdinejadrasouli.com/fa/about/</loc>
