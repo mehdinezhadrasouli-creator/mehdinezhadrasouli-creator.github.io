@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./GamesHub-vOeWBdbe.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`en`});export{r as component};
