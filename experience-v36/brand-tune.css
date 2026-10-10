@@ -23,7 +23,7 @@
   filter: saturate(.7);
 }
 .compact-ex-home .hero-handnote {
-  top: 9% !important;
+  top: -7% !important;
   width: min(58%, 270px) !important;
   z-index: 6;
   box-shadow: 0 15px 36px rgba(0, 16, 11, .25);
@@ -44,14 +44,14 @@
 @media (max-width: 960px) {
   .compact-ex-home .portrait-card { left: 18% !important; width: min(62%, 310px) !important; }
   .compact-ex-home .portrait-card img { height: 285px !important; }
-  .compact-ex-home .hero-handnote { top: 7% !important; width: 49% !important; }
+  .compact-ex-home .hero-handnote { top: -21% !important; width: 49% !important; }
 }
 @media (max-width: 700px) {
   .compact-ex-home .portrait-card { left: 19% !important; bottom: 1% !important; width: min(59%, 270px) !important; }
   .compact-ex-home .portrait-card img { height: 220px !important; }
   .compact-ex-home .portrait-card figcaption { padding: 7px 8px !important; }
   .compact-ex-home .portrait-card figcaption span { font-size: 7px !important; }
-  .compact-ex-home .hero-handnote { top: 2% !important; width: 54% !important; padding: 10px 12px !important; }
+  .compact-ex-home .hero-handnote { top: -5% !important; width: 54% !important; padding: 10px 12px !important; }
   .compact-ex-home .hero-handnote i { font-size: 12px !important; }
   .compact-ex-home .architectural-object { transform: scale(.85); }
   .home-proof-section .mt-5.grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
