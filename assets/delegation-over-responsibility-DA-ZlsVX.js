@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./DelegationOverResponsibility-CqdQ8Mb1.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
