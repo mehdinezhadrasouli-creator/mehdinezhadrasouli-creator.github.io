@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{t}from"./CliftonStrengthsGuide-H0Q2A0Gy.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
