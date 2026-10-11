@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-10T21:59:59.859Z",
+  "generatedAt": "2026-10-11T08:52:08.778Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -95,7 +95,7 @@
       "category": "Human & AI",
       "format": "Practice essay",
       "evidence": "My authored AI/coaching writing + process-stewardship reflections",
-      "sourceNote": "The central argument derives from my authored 2026 article 'AI Can Support Coaching Without Owning the Judgment', my documented note 'Client Owns Direction; Coach Stewards Process', and my published work on context-rich AI. These are bounded reflections from practice, not evidence that human coaching always outperforms AI. No identifiable coaching case appears. ICF ethics is an external professional reference.",
+      "sourceNote": "This piece is shaped by my experience with executive coaching and using AI in professional work. AI can support reflection, but human responsibility for interpretation and decisions still matters.",
       "topics": [
         "AI in coaching",
         "Executive coaching",
@@ -175,7 +175,7 @@
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "HR leadership and coaching practice + authored role-boundary reflections",
-      "sourceNote": "The main argument traces to my documented HR-leadership and coaching experience, particularly my coaching-for-HR-leaders article, my own experience of receiving coaching during a career transition, and my September 2026 authored client-ownership/process-stewardship note. These are bounded practitioner observations, not generalizable outcomes. Confidential client material is excluded. ICF competencies provide professional context.",
+      "sourceNote": "This article draws on my experience in HR leadership and professional coaching. Its purpose is to clarify what different forms of support can offer, rather than prescribe one answer for everyone.",
       "topics": [
         "Executive coaching",
         "Mentoring",
@@ -418,7 +418,7 @@
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "My HR leadership and career transition + authored career-experiment reflection",
-      "sourceNote": "This argument is anchored in my personal transition account in 'Coaching for HR Leaders', my authored September 2026 essay 'When Career Planning Stops Producing Useful Information', and my documented HR reflections on staying without choosing the workplace experience. The stay/change/test distinction is a practitioner reflection, not a validated decision model. No identifiable private client or employer case is reproduced. Ibarra's work provides external context.",
+      "sourceNote": "This article draws on my HR leadership experience and reflections on career decisions. It offers questions to consider when choosing whether to stay or leave, not a universal formula.",
       "topics": [
         "Career transitions",
         "Executive coaching",
@@ -662,7 +662,7 @@
       "category": "انسان و هوش مصنوعی",
       "format": "مقاله کاربردی",
       "evidence": "نوشته‌های شخصی من درباره AI و کوچینگ + تأمل درباره مالکیت مراجع",
-      "sourceNote": "استدلال اصلی از مقاله نوشته‌شده من در سپتامبر ۲۰۲۶ «AI Can Support Coaching Without Owning the Judgment»، یادداشت «مراجع مالک تصمیم است، کوچ نگه‌دارنده فرایند» و تجربه ثبت‌شده‌ام درباره اهمیت زمینه قابل‌ردیابی در استفاده از AI می‌آید. این موضعی حرفه‌ای مبتنی بر تجربه است، نه ادعای برتری همیشگی کوچ انسانی. هیچ محتوای محرمانه مراجع در متن وجود ندارد. اخلاق ICF مرجع بیرونی است.",
+      "sourceNote": "این نوشته از تجربه من در کوچینگ و استفاده از هوش مصنوعی در کار حرفه‌ای شکل گرفته است. به نظرم ابزار می‌تواند به فکرکردن کمک کند، اما مسئولیت قضاوت و انتخاب همچنان انسانی است.",
       "topics": [
         "هوش مصنوعی در کوچینگ",
         "کوچینگ اجرایی",
@@ -744,7 +744,7 @@
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه رهبری منابع انسانی و کوچینگ + یادداشت‌های حرفه‌ای درباره مرز نقش‌ها",
-      "sourceNote": "استدلال اصلی از تجربه مستند من در رهبری منابع انسانی، مقاله «کوچینگ مدیران منابع انسانی»، تجربه شخصی دریافت کوچینگ در گذار حرفه‌ای و یادداشت ۱۴۰۵/۰۶ درباره مالکیت مراجع و مسئولیت فرایندی کوچ استخراج شده است. اینها مشاهده‌های حرفه‌ای‌اند، نه آمار اثربخشی. هیچ محتوای محرمانه یا مورد قابل‌شناسایی از جلسات بازگو نشده است. شایستگی‌های ICF فقط برای تعیین مرز حرفه‌ای استفاده شده‌اند.",
+      "sourceNote": "این نوشته بر پایه تجربه‌های من در مدیریت منابع انسانی و کوچینگ شکل گرفته است. هدفم روشن‌کردن تفاوت نقش‌ها و کمک به انتخاب نوع حمایت مناسب است، نه ارائه یک نسخه واحد برای همه.",
       "topics": [
         "کوچینگ اجرایی",
         "منتورینگ",
@@ -993,7 +993,7 @@
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه گذار حرفه‌ای من + رهبری منابع انسانی + نوشته شخصی درباره آزمایش مسیر شغلی",
-      "sourceNote": "مبنای استدلال، روایت مستند گذار حرفه‌ای خودم در مقاله «کوچینگ مدیران منابع انسانی»، نوشته سپتامبر ۲۰۲۶ «When Career Planning Stops Producing Useful Information» و تأمل HR درباره تفاوت ماندن و انتخاب دوباره محیط کار است. پیشنهاد تفکیک شرایط، نقش و هویت یک چارچوب تأملی برخاسته از تجربه است و نه مدل اعتبارسنجی‌شده. از هیچ پرونده یا گفت‌وگوی محرمانه مراجع استفاده عمومی نشده است. پژوهش ایبارا صرفاً زمینه بیرونی است.",
+      "sourceNote": "این مقاله از تجربه‌های من در مدیریت منابع انسانی و تأمل درباره تصمیم‌های شغلی شکل گرفته است. هدف، کمک به دقیق‌تر دیدن شرایط و انتخاب‌هاست، نه توصیه‌ای یکسان برای ماندن یا رفتن.",
       "topics": [
         "گذار شغلی",
         "تصمیم گیری",
