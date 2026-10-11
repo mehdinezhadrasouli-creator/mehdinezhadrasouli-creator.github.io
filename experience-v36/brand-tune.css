@@ -157,3 +157,29 @@
     opacity: .45;
   }
 }
+
+/* Article topic navigation on dark editorial mastheads:
+ * enforce accessible contrast on pale cards in both languages. */
+.executive-inner-page[data-editorial-landing="true"] > section:first-of-type .thinking-topic-card {
+  background-color: #f4efe4 !important;
+  border-color: #b5b5a5 !important;
+  color: #102823 !important;
+}
+.executive-inner-page[data-editorial-landing="true"] > section:first-of-type .thinking-topic-card .display {
+  color: #102823 !important;
+}
+.executive-inner-page[data-editorial-landing="true"] > section:first-of-type .thinking-topic-card .eyebrow,
+.executive-inner-page[data-editorial-landing="true"] > section:first-of-type .thinking-topic-card .eyebrow-fa {
+  color: #92512f !important;
+}
+.executive-inner-page[data-editorial-landing="true"] > section:first-of-type .thinking-topic-card:hover {
+  background-color: #fffaf0 !important;
+  border-color: #a36543 !important;
+}
+.executive-inner-page[data-editorial-landing="true"] > section:first-of-type .thinking-topic-card:hover .display {
+  color: #683b28 !important;
+}
+.executive-inner-page[data-editorial-landing="true"] > section:first-of-type .thinking-topic-card:focus-visible {
+  outline: 3px solid #e1ba75 !important;
+  outline-offset: 3px;
+}
