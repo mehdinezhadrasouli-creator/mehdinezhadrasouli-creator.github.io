@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-11T21:34:38.985Z",
+  "generatedAt": "2026-10-12T09:27:38.852Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -225,9 +225,9 @@
       "title": "How to Choose the Right Executive Coach",
       "description": "Seven things worth checking before you start working together",
       "inBrief": "Choose an executive coach by checking recognized credentials, fit, confidentiality, professional boundaries and whether the conversation helps you think more clearly while keeping ownership of your decisions.",
-      "updatedAt": "2026-09-24",
+      "updatedAt": "2026-10-12",
       "category": "Coaching & Leadership",
-      "format": "Practice essay",
+      "format": "Deep Dive",
       "evidence": "Practice + ICF guidance",
       "sourceNote": "Drawn from professional coaching practice and publicly available ICF guidance on credentials, coach selection and ethics. Session patterns are described without client stories, quotations, outcomes or identifying detail. This is practical guidance for choosing a coach, not a claim that any single credential or conversation guarantees fit.",
       "topics": [
@@ -796,9 +796,9 @@
       "title": "چطور کوچ اجرایی انتخاب کنیم؟ ۷ معیار برای مدیران",
       "description": "برای انتخاب کوچ اجرایی، اعتبار حرفه‌ای، تناسب با مسئله، محرمانگی، مرز کوچینگ و مشاوره و کیفیت خود گفت‌وگو را بررسی کنید.",
       "inBrief": "برای انتخاب کوچ اجرایی، مدرک معتبر، تناسب حرفه‌ای، محرمانگی، مرزهای کار و کیفیت خود گفت‌وگو را بررسی کنید. رابطه خوب باید کمک کند روشن‌تر فکر کنید و همچنان مالک تصمیم‌های خودتان بمانید.",
-      "updatedAt": "2026-10-02",
+      "updatedAt": "2026-10-12",
       "category": "کوچینگ و رهبری",
-      "format": "مقاله کاربردی",
+      "format": "مقاله عمیق",
       "evidence": "تجربه حرفه‌ای + راهنمای ICF",
       "sourceNote": "این مطلب بر پایه تجربه کوچینگ حرفه‌ای و راهنماهای عمومی ICF درباره مدرک، انتخاب کوچ و اصول اخلاقی نوشته شده است. الگوهای جلسات بدون روایت، نقل‌قول، نتیجه یا جزئیات قابل‌شناسایی از مراجعان آمده‌اند. این متن راهنمای عملی برای انتخاب کوچ است، نه ادعای اینکه یک مدرک یا یک گفت‌وگو به‌تنهایی تناسب را تضمین می‌کند.",
       "topics": [
