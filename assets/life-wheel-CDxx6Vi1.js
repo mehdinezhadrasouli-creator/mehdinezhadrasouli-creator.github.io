@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./LifeWheelAssessment-5KiW29Jb.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
