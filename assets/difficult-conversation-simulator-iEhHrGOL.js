@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./DifficultConversationSimulator-B7dhKdeA.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
