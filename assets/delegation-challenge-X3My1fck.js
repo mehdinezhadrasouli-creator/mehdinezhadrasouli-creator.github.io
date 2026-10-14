@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./DelegationGame-C48ZcQTv.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`en`});export{r as component};

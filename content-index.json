@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-14T20:52:45.044Z",
+  "generatedAt": "2026-10-14T21:44:29.662Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -430,6 +430,34 @@
         "career change decision",
         "executive career transition",
         "stay or leave leadership role"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "en:when-ai-can-coach-what-should-coaches-change",
+      "language": "en",
+      "slug": "when-ai-can-coach-what-should-coaches-change",
+      "path": "/thinking/when-ai-can-coach-what-should-coaches-change",
+      "title": "AI Can Coach. What Should Professional Coaches Change?",
+      "description": "What should professional coaches stop, start and continue doing as AI coaching develops? A first-person reflection grounded in coaching practice, HR leadership and ethics.",
+      "inBrief": "If AI can generate strong questions, a professional coach needs to offer more than questions. Stop premature interpretations, actively steward the agreed process, protect confidentiality and keep the client's decisions with the client.",
+      "updatedAt": "2026-10-15",
+      "category": "Human & AI",
+      "format": "Practice essay",
+      "evidence": "Coaching and HR leadership experience + reflective practice + Coaching.com session",
+      "sourceNote": "This essay is primarily based on my own HR leadership, coaching practice, session reviews and professional use of AI. A question I asked in Coaching.com's ‘AI Can Coach. Now What?’ session prompted this reflection; David Drake's response and statements about Ovida are attributed to the presenters, not presented as my independent findings. No identifiable client material is used.",
+      "topics": [
+        "Professional coaching",
+        "Artificial intelligence",
+        "Coaching ethics",
+        "Client autonomy"
+      ],
+      "searchTerms": [
+        "AI coaching future",
+        "AI and professional coaches",
+        "coach process stewardship",
+        "coaching ethics and AI",
+        "client autonomy in coaching"
       ],
       "status": "published"
     },
@@ -1005,6 +1033,34 @@
         "تصمیم به تغییر شغل",
         "ماندن یا رفتن از کار",
         "کوچینگ تغییر شغل"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fa:when-ai-can-coach-what-should-coaches-change",
+      "language": "fa",
+      "slug": "when-ai-can-coach-what-should-coaches-change",
+      "path": "/fa/thinking/when-ai-can-coach-what-should-coaches-change",
+      "title": "وقتی هوش مصنوعی هم کوچینگ می‌کند، کوچ حرفه‌ای چه چیزی را باید تغییر دهد؟",
+      "description": "با پیشرفت کوچینگ مبتنی بر AI، کوچ‌ها چه کاری را متوقف کنند، چه چیزی را شروع کنند و چه چیزی را ادامه دهند؟ تأملی بر تجربه حرفه‌ای و یک نشست Coaching.com.",
+      "inBrief": "وقتی AI می‌تواند سؤال و تمرین پیشنهاد دهد، مزیت کوچ صرفاً پرسش‌های بهتر نیست. کوچ باید تفسیر شتاب‌زده را کنار بگذارد، مسئولیت فرایند و محرمانگی را روشن‌تر بپذیرد و مالکیت تصمیم را با مراجع نگه دارد.",
+      "updatedAt": "2026-10-15",
+      "category": "انسان و هوش مصنوعی",
+      "format": "مقاله تحلیلی",
+      "evidence": "تجربه کوچینگ و رهبری منابع انسانی + بازبینی حرفه‌ای جلسات + تأمل بر نشست Coaching.com",
+      "sourceNote": "این تحلیل عمدتاً بر تجربه شخصی من در رهبری منابع انسانی، کوچینگ، بازبینی جلسات و استفاده از AI استوار است. حضورم در نشست «AI Can Coach. Now What?» و پرسشی که در آن مطرح کردم آغاز بحث است؛ پاسخ سخنران و مطالب مربوط به Ovida به برگزارکنندگان منتسب‌اند و یافته مستقل من محسوب نمی‌شوند. هیچ روایت محرمانه‌ای از مراجعان نقل نشده است.",
+      "topics": [
+        "کوچینگ حرفه‌ای",
+        "هوش مصنوعی",
+        "اخلاق کوچینگ",
+        "مالکیت تصمیم مراجع"
+      ],
+      "searchTerms": [
+        "آینده کوچینگ با هوش مصنوعی",
+        "هوش مصنوعی برای کوچ‌ها",
+        "نقش کوچ حرفه‌ای",
+        "اخلاق کوچینگ و AI",
+        "مسئولیت کوچ و مراجع"
       ],
       "status": "published"
     },
