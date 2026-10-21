@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./OrganizationalCoachingReadinessFollowUp-h9Tf84on.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
