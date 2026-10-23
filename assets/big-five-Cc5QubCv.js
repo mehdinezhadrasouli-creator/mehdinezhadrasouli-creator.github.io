@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./BigFiveAssessment-CgN8yp_W.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
