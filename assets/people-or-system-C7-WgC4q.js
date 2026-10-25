@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./PeopleOrSystem-B1Z4n2wC.js";var n=e();function r(){return(0,n.jsx)(t,{language:`fa`})}export{r as component};
