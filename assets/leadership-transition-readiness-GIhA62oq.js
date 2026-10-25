@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./LeadershipTransitionReadiness-DYenW4W1.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
