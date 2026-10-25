@@ -1,0 +1,1 @@
+var e=`/assets/two-chairs-Bqceyau4.jpg`;export{e as t};
