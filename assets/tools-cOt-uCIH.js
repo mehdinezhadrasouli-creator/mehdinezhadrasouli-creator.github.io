@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{bn as t}from"./index-BZ0QvI-K.js";import{t as n}from"./ToolsHubExperience-AUyBxy6B.js";var r=e();function i(){return(0,r.jsx)(t,{children:(0,r.jsx)(n,{language:`fa`})})}export{i as component};

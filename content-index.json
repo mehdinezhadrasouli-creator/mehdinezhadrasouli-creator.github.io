@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-28T22:18:12.739Z",
+  "generatedAt": "2026-10-28T22:32:21.784Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -202,7 +202,7 @@
       "category": "Coaching & Leadership",
       "format": "Practice essay",
       "evidence": "HR leadership practice + published management coaching reflections + role-transition research",
-      "sourceNote": "This guide synthesizes my already published reflections on post-promotion pressure, delegation, difficult conversations and responsibility boundaries, along with the leadership transition tool. The guidance is practitioner interpretation, not a validated checklist or predictor of leadership performance. The three themes of transition are grounded in Jiang and colleagues' systematic review; no identifiable coaching case is used.",
+      "sourceNote": "This article brings together my documented reflections on post-promotion pressure, delegation, difficult conversations, responsibility boundaries and HR leadership. The central distinction is the shift from delivering specialist work to enabling outcomes through others. These are practice-based considerations, not a scientifically validated skills checklist. The systematic review by Jiang, Agolli and Harold provides research context and limits for the interpretation. No identifiable client case is disclosed.",
       "topics": [
         "Management skills",
         "New managers",
@@ -472,9 +472,9 @@
       "inBrief": "Coaching is a purposeful professional partnership in which you clarify a question that matters, examine assumptions and options, and decide what to do next. A coach supports the quality of your thinking and the process, rather than prescribing your choice or taking ownership of the decision.",
       "updatedAt": "2026-10-29",
       "category": "Coaching & Leadership",
-      "format": "Deep Dive",
+      "format": "Practical guide",
       "evidence": "HR leadership and coaching practice + ICF definition and competencies",
-      "sourceNote": "This introductory guide builds on my existing published reflections on the boundaries between coaching, mentoring and consulting, my experience leading HR, receiving coaching during a professional transition, and working as a coach. The manager-delegation illustration is explicitly hypothetical; it is not an account of any identifiable client or session. The professional definition and boundaries are checked against original ICF materials. No outcome is promised. This draft requires the author's first-person evidence and editorial sign-off before publication.",
+      "sourceNote": "This guide draws on my published reflections on session reviews, client ownership and the coach's responsibility, as well as my HR leadership experience. The boundaries between coaching and consulting, the delegation example and the importance of organizational context are based on existing authored essays. The manager illustration is hypothetical and does not describe an identifiable client. ICF provides the professional framing, not proof of outcomes.",
       "topics": [
         "Professional coaching",
         "Coaching sessions",
@@ -858,7 +858,7 @@
       "category": "کوچینگ و رهبری",
       "format": "مقاله کاربردی",
       "evidence": "تجربه رهبری منابع انسانی + الگوهای منتشرشده کوچینگ مدیران + پژوهش گذار نقش",
-      "sourceNote": "این راهنما بر جمع‌بندی نوشته‌های حرفه‌ای منتشرشده‌ام درباره فشار پس از ارتقا، دشواری تفویض اختیار، گفت‌وگوهای دشوار و مرز مسئولیت و بر منطق ابزار بازتابی گذار نقش استوار است. این‌ها مشاهده‌ها و تفسیرهای عملی در بستر رهبری منابع انسانی و کوچینگ هستند، نه فهرست مهارت‌های اعتبارسنجی‌شده یا پیش‌بینی‌کننده موفقیت. چارچوب سه‌بعدی گذار نقش با مرور نظام‌مند Jiang و همکاران تطبیق داده شده و هیچ مثال قابل‌شناسایی از مراجع مطرح نشده است.",
+      "sourceNote": "این مقاله شش مهارت را از نوشته‌های مستند من درباره فشار پس از ارتقا، تفویض اختیار، گفت‌وگوهای دشوار، مرز مسئولیت و تجربه رهبری منابع انسانی جمع‌بندی می‌کند. نکته اصلی آن تغییر معیار ارزش‌آفرینی از کار تخصصی فردی به رهبری دیگران است. این یک چارچوب عملی برآمده از تجربه حرفه‌ای است، نه آزمون یا فهرست علمی اعتبارسنجی‌شده. مرور نظام‌مند Jiang، Agolli و Harold درباره گذار نقش رهبری برای بررسی و محدودکردن تفسیرهای من به کار رفته است. هیچ مراجع یا موقعیت محرمانه‌ای روایت نشده است.",
       "topics": [
         "مهارت‌های مدیریتی",
         "مدیران تازه‌منصوب‌شده",
@@ -1133,9 +1133,9 @@
       "inBrief": "کوچینگ یک گفت‌وگوی حرفه‌ای و هدفمند است که در آن کوچ به شما کمک می‌کند مسئله‌تان را روشن‌تر ببینید، فرض‌ها و انتخاب‌ها را بررسی کنید و برای اقدام تصمیم بگیرید؛ اما به‌جای شما نسخه نمی‌پیچد یا تصمیم نمی‌گیرد. هدف، مالکیت بیشتر شما بر انتخاب و عمل است.",
       "updatedAt": "2026-10-29",
       "category": "کوچینگ و رهبری",
-      "format": "مقاله عمیق",
+      "format": "راهنمای کاربردی",
       "evidence": "تجربه رهبری منابع انسانی و کوچینگ + تعریف و شایستگی‌های ICF",
-      "sourceNote": "این راهنمای مقدماتی بر مرزبندی‌ای بنا شده که در نوشته‌های حرفه‌ای منتشرشده‌ام درباره کوچینگ، منتورینگ و مشاوره توضیح داده‌ام؛ همچنین تجربه‌ام از نقش‌های رهبری منابع انسانی، دریافت کوچینگ در یک گذار حرفه‌ای و کار به‌عنوان کوچ. مثال مدیر و تفویض اختیار در این مقاله صریحاً فرضی است و روایت هیچ مراجع یا جلسه مشخصی نیست. تعریف و چارچوب حرفه‌ای با منابع رسمی ICF تطبیق داده شده‌اند. هیچ نتیجه یا اثرگذاری تضمین نمی‌شود. نسخه نهایی نیازمند بازبینی و تأیید شخصی نویسنده پیش از انتشار است.",
+      "sourceNote": "این مقاله بر یادگیری‌های مستند من از بازبینی جلسات کوچینگ و تجربه رهبری منابع انسانی تکیه دارد. تمایز میان مالکیت مراجع و مسئولیت کوچ در مقاله «مراجع صاحب مسیر است، کوچ نگهبان فرایند» و مرز کوچینگ و مشاوره در مقاله مقایسه نقش‌ها پیش‌تر منتشر شده است. توضیح تفویض اختیار و توجه به سهم سیستم نیز به نوشته‌های منتشرشده من برمی‌گردد. مثال مدیریتی این متن فرضی است، نه روایت یک مراجع. تعریف ICF برای روشن‌کردن چارچوب حرفه‌ای به کار رفته، نه برای ادعای اثربخشی.",
       "topics": [
         "کوچینگ حرفه‌ای",
         "جلسه کوچینگ",
