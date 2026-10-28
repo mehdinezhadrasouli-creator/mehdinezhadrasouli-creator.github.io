@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./ExecutiveExperienceHomepage-Bz8tl7L3.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`fa`});export{r as component};
