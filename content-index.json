@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-28T22:07:46.469Z",
+  "generatedAt": "2026-10-28T22:14:09.493Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -187,6 +187,35 @@
         "coaching vs consulting",
         "what is executive coaching",
         "coach mentor consultant differences"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "en:essential-managerial-skills-new-leaders",
+      "language": "en",
+      "slug": "essential-managerial-skills-new-leaders",
+      "path": "/thinking/essential-managerial-skills-new-leaders",
+      "title": "Essential Management Skills for New Leaders: From Expert to Manager",
+      "description": "Six practical management skills for a new leadership role: delegation, feedback, difficult conversations, decisions, stakeholders and learning in real work.",
+      "inBrief": "Moving into management involves more than acquiring techniques. A new manager must redefine what their contribution means, clarify decision rights, delegate work, handle feedback and uncertainty, and renegotiate expectations. These six areas offer a practical starting point rather than a universal success checklist.",
+      "updatedAt": "2026-10-29",
+      "category": "Coaching & Leadership",
+      "format": "Practice essay",
+      "evidence": "HR leadership practice + published management coaching reflections + role-transition research",
+      "sourceNote": "This guide synthesizes my already published reflections on post-promotion pressure, delegation, difficult conversations and responsibility boundaries, along with the leadership transition tool. The guidance is practitioner interpretation, not a validated checklist or predictor of leadership performance. The three themes of transition are grounded in Jiang and colleagues' systematic review; no identifiable coaching case is used.",
+      "topics": [
+        "Management skills",
+        "New managers",
+        "Leadership role transition",
+        "Leadership development"
+      ],
+      "searchTerms": [
+        "management skills for new managers",
+        "essential management skills",
+        "new manager skills",
+        "leadership transition",
+        "delegation and feedback",
+        "first time manager"
       ],
       "status": "published"
     },
@@ -814,6 +843,35 @@
         "تفاوت کوچینگ و مشاوره",
         "کوچ اجرایی",
         "چه زمانی کوچینگ مفید است"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fa:essential-managerial-skills-new-leaders",
+      "language": "fa",
+      "slug": "essential-managerial-skills-new-leaders",
+      "path": "/fa/thinking/essential-managerial-skills-new-leaders",
+      "title": "مهارت‌های مدیریتی مهم برای مدیران تازه‌منصوب‌شده | راهنمای عملی",
+      "description": "برای ورود به نقش مدیریتی جدید چه مهارت‌هایی لازم است؟ ۶ حوزه عملی از تفویض اختیار و گفت‌وگوی دشوار تا تصمیم‌گیری، بازخورد و مدیریت ذی‌نفعان.",
+      "inBrief": "مهارت‌های مدیریتی فقط مجموعه‌ای از تکنیک‌ها نیستند. مدیر تازه‌منصوب‌شده باید هم‌زمان نقش خود را بازتعریف کند، اختیار تصمیم و انتظارات را روشن کند، کارها را واگذار کند، بازخورد بگیرد و گفت‌وگوهای دشوار را پیش ببرد. این راهنما شش حوزه را با پرسش‌های عملی برای شروع بررسی می‌کند.",
+      "updatedAt": "2026-10-29",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله کاربردی",
+      "evidence": "تجربه رهبری منابع انسانی + الگوهای منتشرشده کوچینگ مدیران + پژوهش گذار نقش",
+      "sourceNote": "این راهنما بر جمع‌بندی نوشته‌های حرفه‌ای منتشرشده‌ام درباره فشار پس از ارتقا، دشواری تفویض اختیار، گفت‌وگوهای دشوار و مرز مسئولیت و بر منطق ابزار بازتابی گذار نقش استوار است. این‌ها مشاهده‌ها و تفسیرهای عملی در بستر رهبری منابع انسانی و کوچینگ هستند، نه فهرست مهارت‌های اعتبارسنجی‌شده یا پیش‌بینی‌کننده موفقیت. چارچوب سه‌بعدی گذار نقش با مرور نظام‌مند Jiang و همکاران تطبیق داده شده و هیچ مثال قابل‌شناسایی از مراجع مطرح نشده است.",
+      "topics": [
+        "مهارت‌های مدیریتی",
+        "مدیران تازه‌منصوب‌شده",
+        "گذار نقش رهبری",
+        "توسعه مدیران"
+      ],
+      "searchTerms": [
+        "مهارت های مدیریتی",
+        "مهارت های مدیران",
+        "مهارت های مدیر تازه کار",
+        "آمادگی برای نقش مدیریتی",
+        "توسعه مهارت های رهبری",
+        "ورود به مدیریت"
       ],
       "status": "published"
     },
