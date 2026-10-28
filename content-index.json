@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-10-28T21:27:28.242Z",
+  "generatedAt": "2026-10-28T22:07:46.469Z",
   "assets": [
     {
       "id": "en:after-promotion-pressure-leadership-transition",
@@ -434,6 +434,35 @@
       "status": "published"
     },
     {
+      "id": "en:what-is-coaching",
+      "language": "en",
+      "slug": "what-is-coaching",
+      "path": "/thinking/what-is-coaching",
+      "title": "What Is Coaching? What Actually Happens in a Coaching Session?",
+      "description": "A plain-language guide to professional coaching: what a coach does, how a session works, and how coaching differs from mentoring, consulting and therapy.",
+      "inBrief": "Coaching is a purposeful professional partnership in which you clarify a question that matters, examine assumptions and options, and decide what to do next. A coach supports the quality of your thinking and the process, rather than prescribing your choice or taking ownership of the decision.",
+      "updatedAt": "2026-10-29",
+      "category": "Coaching & Leadership",
+      "format": "Deep Dive",
+      "evidence": "HR leadership and coaching practice + ICF definition and competencies",
+      "sourceNote": "This introductory guide builds on my existing published reflections on the boundaries between coaching, mentoring and consulting, my experience leading HR, receiving coaching during a professional transition, and working as a coach. The manager-delegation illustration is explicitly hypothetical; it is not an account of any identifiable client or session. The professional definition and boundaries are checked against original ICF materials. No outcome is promised. This draft requires the author's first-person evidence and editorial sign-off before publication.",
+      "topics": [
+        "Professional coaching",
+        "Coaching sessions",
+        "Executive coaching",
+        "Client agency"
+      ],
+      "searchTerms": [
+        "what is coaching",
+        "what happens in a coaching session",
+        "what does a coach do",
+        "professional coaching",
+        "coaching versus consulting",
+        "executive coaching"
+      ],
+      "status": "published"
+    },
+    {
       "id": "en:when-ai-can-coach-what-should-coaches-change",
       "language": "en",
       "slug": "when-ai-can-coach-what-should-coaches-change",
@@ -780,7 +809,7 @@
         "مرز نقش‌ها"
       ],
       "searchTerms": [
-        "کوچینگ چیست",
+        "تفاوت کوچینگ و آموزش",
         "تفاوت کوچینگ و منتورینگ",
         "تفاوت کوچینگ و مشاوره",
         "کوچ اجرایی",
@@ -1033,6 +1062,35 @@
         "تصمیم به تغییر شغل",
         "ماندن یا رفتن از کار",
         "کوچینگ تغییر شغل"
+      ],
+      "status": "published"
+    },
+    {
+      "id": "fa:what-is-coaching",
+      "language": "fa",
+      "slug": "what-is-coaching",
+      "path": "/fa/thinking/what-is-coaching",
+      "title": "کوچینگ چیست؟ در جلسه کوچینگ چه اتفاقی می‌افتد؟",
+      "description": "کوچینگ به زبان ساده چیست، کوچ چه می‌کند و یک جلسه چگونه پیش می‌رود؟ با یک مثال مدیریتی، تفاوت کوچینگ با مشاوره و منتورینگ و راه شروع آشنا شوید.",
+      "inBrief": "کوچینگ یک گفت‌وگوی حرفه‌ای و هدفمند است که در آن کوچ به شما کمک می‌کند مسئله‌تان را روشن‌تر ببینید، فرض‌ها و انتخاب‌ها را بررسی کنید و برای اقدام تصمیم بگیرید؛ اما به‌جای شما نسخه نمی‌پیچد یا تصمیم نمی‌گیرد. هدف، مالکیت بیشتر شما بر انتخاب و عمل است.",
+      "updatedAt": "2026-10-29",
+      "category": "کوچینگ و رهبری",
+      "format": "مقاله عمیق",
+      "evidence": "تجربه رهبری منابع انسانی و کوچینگ + تعریف و شایستگی‌های ICF",
+      "sourceNote": "این راهنمای مقدماتی بر مرزبندی‌ای بنا شده که در نوشته‌های حرفه‌ای منتشرشده‌ام درباره کوچینگ، منتورینگ و مشاوره توضیح داده‌ام؛ همچنین تجربه‌ام از نقش‌های رهبری منابع انسانی، دریافت کوچینگ در یک گذار حرفه‌ای و کار به‌عنوان کوچ. مثال مدیر و تفویض اختیار در این مقاله صریحاً فرضی است و روایت هیچ مراجع یا جلسه مشخصی نیست. تعریف و چارچوب حرفه‌ای با منابع رسمی ICF تطبیق داده شده‌اند. هیچ نتیجه یا اثرگذاری تضمین نمی‌شود. نسخه نهایی نیازمند بازبینی و تأیید شخصی نویسنده پیش از انتشار است.",
+      "topics": [
+        "کوچینگ حرفه‌ای",
+        "جلسه کوچینگ",
+        "کوچینگ اجرایی",
+        "توسعه فردی و حرفه‌ای"
+      ],
+      "searchTerms": [
+        "کوچینگ چیست",
+        "کوچینگ یعنی چه",
+        "جلسه کوچینگ چیست",
+        "کوچ چه کاری انجام می‌دهد",
+        "فرایند کوچینگ",
+        "تفاوت کوچینگ و مشاوره"
       ],
       "status": "published"
     },

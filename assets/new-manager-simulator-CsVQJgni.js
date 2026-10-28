@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./NewManagerGame-PvpF_s78.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`fa`});export{r as component};
