@@ -1,0 +1,86 @@
+{
+  "css_sources": {
+    "fa": "https://fonts.googleapis.com/css2?family=Estedad:wght@400..700&family=Vazirmatn:wght@300..700&display=swap",
+    "en": "https://fonts.googleapis.com/css2?family=Archivo:wght@300..600&family=Fraunces:opsz,wght@9..144,300..600&display=swap"
+  },
+  "fonts": [
+    {
+      "file": "ee017e8e14263838.woff2",
+      "source": "https://fonts.gstatic.com/s/estedad/v3/QdVWSTk1OgitjvYTJJDEvCtim2wIJA.woff2",
+      "sha256": "ee017e8e1426383830d00f790ff7e6dd3439abb2051c94c0d9b10a9ad3515b68",
+      "bytes": 57088
+    },
+    {
+      "file": "7150c0ec5ad35645.woff2",
+      "source": "https://fonts.gstatic.com/s/archivo/v25/k3kPo8UDI-1M0wlSV9XAw6lQkqWY8Q82sLydOxKsv4Rn.woff2",
+      "sha256": "7150c0ec5ad356453013d11affec1fbab95de0dd2dcecb043b4f1cb7f87c4ba4",
+      "bytes": 34940
+    },
+    {
+      "file": "a999e009fdcd0f93.woff2",
+      "source": "https://fonts.gstatic.com/s/archivo/v25/k3kPo8UDI-1M0wlSV9XAw6lQkqWY8Q82sLyTOxKsv4RnUPU.woff2",
+      "sha256": "a999e009fdcd0f939c138e04043b3b2ad083b26252b644e8f94c083d48b77af0",
+      "bytes": 32672
+    },
+    {
+      "file": "253548a4432985a3.woff2",
+      "source": "https://fonts.gstatic.com/s/estedad/v3/QdVWSTk1OgitjvYTJJXEvCtim2w.woff2",
+      "sha256": "253548a4432985a35e627af0c7854443644d76c91a9125c770425814e3d6bc41",
+      "bytes": 27296
+    },
+    {
+      "file": "fb5678a68561e39c.woff2",
+      "source": "https://fonts.gstatic.com/s/estedad/v3/QdVWSTk1OgitjvYTJJrEvCtim2wIJA.woff2",
+      "sha256": "fb5678a68561e39c0f8ba08339c3081a0333b084655d39b0e74fe40ef91e8af3",
+      "bytes": 7628
+    },
+    {
+      "file": "5e929c733534b91c.woff2",
+      "source": "https://fonts.gstatic.com/s/estedad/v3/QdVWSTk1OgitjvYTJJvEvCtim2wIJA.woff2",
+      "sha256": "5e929c733534b91cb49b4183a26010aa0f4453ba35c0d4675dea7d1350576543",
+      "bytes": 35656
+    },
+    {
+      "file": "2518e8eb97cd2b36.woff2",
+      "source": "https://fonts.gstatic.com/s/archivo/v25/k3kPo8UDI-1M0wlSV9XAw6lQkqWY8Q82sLySOxKsv4RnUPU.woff2",
+      "sha256": "2518e8eb97cd2b36dbf380d085e47bbc0df5c32fc6adc32fe1ca6edce192cee0",
+      "bytes": 13216
+    },
+    {
+      "file": "48282a415ec22e31.woff2",
+      "source": "https://fonts.gstatic.com/s/fraunces/v38/6NU78FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0KxC9TeP2Xz5c.woff2",
+      "sha256": "48282a415ec22e31beaf0a0666e6fae0c8cbddcd0b1f6e729f27c3ade8a64e43",
+      "bytes": 67388
+    },
+    {
+      "file": "f120089b9440f3e3.woff2",
+      "source": "https://fonts.gstatic.com/s/fraunces/v38/6NU78FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0KxCFTeP2Xz5fU8w.woff2",
+      "sha256": "f120089b9440f3e35a980a2137347b1851ad46ee4b8ad5c63b6c07e053fa40e2",
+      "bytes": 59540
+    },
+    {
+      "file": "07c90f3690c05c77.woff2",
+      "source": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlGMWWIGroe7ll.woff2",
+      "sha256": "07c90f3690c05c7722300d9933824191a77f5eb8367e498a07ffc9552f2c2635",
+      "bytes": 46272
+    },
+    {
+      "file": "454d44a1112afe0a.woff2",
+      "source": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlHcWWIGroew.woff2",
+      "sha256": "454d44a1112afe0a95f40216cd231d0fb725269e31c8692ff36003c56eb23d7c",
+      "bytes": 34444
+    },
+    {
+      "file": "7e3c04662669cd2b.woff2",
+      "source": "https://fonts.gstatic.com/s/fraunces/v38/6NU78FyLNQOQZAnv9bYEvDiIdE9Ea92uemAk_WBq8U_9v0c2Wa0KxCBTeP2Xz5fU8w.woff2",
+      "sha256": "7e3c04662669cd2b8ee672e4e5d63146d21f6aa36654b211718af5fe0bb3bd51",
+      "bytes": 19748
+    },
+    {
+      "file": "a448627c36553c00.woff2",
+      "source": "https://fonts.gstatic.com/s/vazirmatn/v16/Dxxo8j6PP2D_kU2muijlE8WWIGroe7ll.woff2",
+      "sha256": "a448627c36553c00e67cc488376e13f8f4211f3ddc9d12de22e48a468d306a90",
+      "bytes": 21796
+    }
+  ]
+}
