@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./HoganAssessmentGuide-9z4sEqaS.js";var n=e();function r(){return(0,n.jsx)(t,{language:`en`})}export{r as component};
