@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./GamesHub-Ddk0Howx.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`fa`});export{r as component};
