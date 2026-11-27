@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-B-hcVAMW.js";import{t}from"./NewManagerGame-C3T1EG1S.js";var n=e(),r=()=>(0,n.jsx)(t,{language:`fa`});export{r as component};
